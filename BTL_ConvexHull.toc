@@ -1,0 +1,27 @@
+\contentsline {part}{I\hspace {1em}B\IeC {\`a}i to\IeC {\'a}n bao l\IeC {\`\ocircumflex }i v\IeC {\`a} thu\IeC {\d \acircumflex }t to\IeC {\'a}n Monotone chain}{4}{part.1}
+\contentsline {section}{\numberline {1}Gi\IeC {\'\ohorn }i thi\IeC {\d \ecircumflex }u bao l\IeC {\`\ocircumflex }i 2D}{4}{section.1.1}
+\contentsline {subsection}{\numberline {1.1}\IeC {\DJ }\IeC {\d i}nh ngh\IeC {\~\i }a}{4}{subsection.1.1.1}
+\contentsline {subsection}{\numberline {1.2}Gi\IeC {\h a}i th\IeC {\'\i }ch tr\IeC {\d \uhorn }c quan v\IeC {\`\ecircumflex } bao l\IeC {\`\ocircumflex }i tr\IeC {\^e}n m\IeC {\d \abreve }t ph\IeC {\h \abreve }ng}{4}{subsection.1.1.2}
+\contentsline {section}{\numberline {2}Thu\IeC {\d \acircumflex }t to\IeC {\'a}n t\IeC {\`\i }m bao l\IeC {\`\ocircumflex }i - Monotone chain}{5}{section.1.2}
+\contentsline {subsection}{\numberline {2.1}Gi\IeC {\'\ohorn }i thi\IeC {\d \ecircumflex }u}{5}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {2.2}Nguy\IeC {\^e}n l\IeC {\'y}}{5}{subsection.1.2.2}
+\contentsline {subsection}{\numberline {2.3}Thu\IeC {\d \acircumflex }t to\IeC {\'a}n}{6}{subsection.1.2.3}
+\contentsline {subsection}{\numberline {2.4}Gi\IeC {\h a} m\IeC {\~a} (Pseudo-code)}{7}{subsection.1.2.4}
+\contentsline {part}{II\hspace {1em}Bi\IeC {\h \ecircumflex }u di\IeC {\~\ecircumflex }n b\IeC {\`a}i to\IeC {\'a}n v\IeC {\'\ohorn }i Maple}{8}{part.2}
+\contentsline {section}{\numberline {1}M\IeC {\~a} ngu\IeC {\`\ocircumflex }n}{8}{section.2.1}
+\contentsline {subsection}{\numberline {1.1}H\IeC {\`a}m ch\IeC {\'\i }nh}{8}{subsection.2.1.1}
+\contentsline {subsubsection}{\numberline {1.1.1}H\IeC {\`a}m "isCCW"}{8}{subsubsection.2.1.1.1}
+\contentsline {subsubsection}{\numberline {1.1.2}H\IeC {\`a}m "ConvexHull"}{9}{subsubsection.2.1.1.2}
+\contentsline {subsection}{\numberline {1.2}H\IeC {\`a}m ph\IeC {\d u}}{10}{subsection.2.1.2}
+\contentsline {subsubsection}{\numberline {1.2.1}H\IeC {\`a}m 'RandPoints'}{10}{subsubsection.2.1.2.1}
+\contentsline {subsubsection}{\numberline {1.2.2}H\IeC {\`a}m 'myPlot'}{11}{subsubsection.2.1.2.2}
+\contentsline {subsubsection}{\numberline {1.2.3}H\IeC {\`a}m 'AniConvexHull'}{11}{subsubsection.2.1.2.3}
+\contentsline {section}{\numberline {2}Th\IeC {\d \uhorn }c nghi\IeC {\d \ecircumflex }m}{14}{section.2.2}
+\contentsline {section}{\numberline {3}Giao di\IeC {\d \ecircumflex }n trong ConvexHullSuper.mw}{17}{section.2.3}
+\contentsline {subsection}{\numberline {3.1}M\IeC {\~a} ngu\IeC {\`\ocircumflex }n}{17}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {3.2}Giao di\IeC {\d \ecircumflex }n ch\IeC {\'\i }nh}{18}{subsection.2.3.2}
+\contentsline {subsubsection}{\numberline {3.2.1}T\IeC {\d a}o danh s\IeC {\'a}ch \IeC {\dj }i\IeC {\h \ecircumflex }m}{18}{subsubsection.2.3.2.1}
+\contentsline {subsubsection}{\numberline {3.2.2}T\IeC {\`\i }m bao l\IeC {\`\ocircumflex }i v\IeC {\`a} v\IeC {\~e} \IeC {\dj }a gi\IeC {\'a}c}{18}{subsubsection.2.3.2.2}
+\contentsline {subsubsection}{\numberline {3.2.3}V\IeC {\~e} \IeC {\h a}nh \IeC {\dj }\IeC {\d \ocircumflex }ng th\IeC {\h \ecircumflex } hi\IeC {\d \ecircumflex }n c\IeC {\'a}c b\IeC {\uhorn }\IeC {\'\ohorn }c c\IeC {\h u}a thu\IeC {\d \acircumflex }t to\IeC {\'a}n}{19}{subsubsection.2.3.2.3}
+\contentsline {section}{\numberline {4}K\IeC {\'\ecircumflex }t lu\IeC {\d \acircumflex }n}{19}{section.2.4}
+\contentsline {section}{{\bf T\IeC {\`a}i li\IeC {\d \ecircumflex }u tham kh\IeC {\h a}o}\rm }{20}{section*.23}
