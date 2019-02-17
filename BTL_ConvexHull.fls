@@ -162,6 +162,8 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
 INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
 INPUT /usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
 INPUT /home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/BTL_ConvexHull.aux
 INPUT /home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/BTL_ConvexHull.aux
 OUTPUT /home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/BTL_ConvexHull.aux
@@ -185,7 +187,7 @@ OUTPUT /home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/BTL_ConvexHull
 INPUT /home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/BTL_ConvexHull.out
 INPUT /home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/BTL_ConvexHull.out
 OUTPUT /home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/BTL_ConvexHull.out
-INPUT /home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/biasach.tex
+INPUT /home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/Cover.tex
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/vntex/vnr/vnbx12.tfm
 INPUT /home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/Image/LogoTLU.jpg
 INPUT /home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/Image/LogoTLU.jpg
@@ -251,6 +253,7 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/vntex/vnr/vnbx6.tfm
 INPUT /usr/share/texlive/texmf-dist/tex/latex/vntex/t5cmtt.fd
 INPUT /usr/share/texlive/texmf-dist/tex/latex/vntex/t5cmtt.fd
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/vntex/vnr/vntt12.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/vntex/vnr/vntt10.tfm
 INPUT /home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/Image/randPoint.png
 INPUT /home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/Image/randPoint.png
 INPUT /home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/Image/randPoint.png
@@ -552,6 +555,24 @@ INPUT /home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Low-30.png
 INPUT /home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Low-30.png
 INPUT /home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Low-30.png
 INPUT /home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Low-30.png
+INPUT /home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Up-2.png
+INPUT /home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Up-2.png
+INPUT /home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Up-3.png
+INPUT /home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Up-3.png
+INPUT /home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Up-4.png
+INPUT /home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Up-4.png
+INPUT /home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Up-5.png
+INPUT /home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Up-5.png
+INPUT /home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Up-6.png
+INPUT /home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Up-6.png
+INPUT /home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Up-7.png
+INPUT /home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Up-7.png
+INPUT /home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Up-8.png
+INPUT /home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Up-8.png
+INPUT /home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Up-9.png
+INPUT /home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Up-9.png
+INPUT /home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Up-10.png
+INPUT /home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Up-10.png
 INPUT /home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/Image/codeMaple.png
 INPUT /home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/Image/codeMaple.png
 INPUT /home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/Image/codeMaple.png
@@ -578,4 +599,5 @@ INPUT /usr/share/texlive/texmf-dist/fonts/type1/vntex/vnr/vncsc10.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/vntex/vnr/vnr10.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/vntex/vnr/vnr12.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/vntex/vnr/vnti12.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/vntex/vnr/vntt10.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/vntex/vnr/vntt12.pfb

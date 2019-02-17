@@ -1,4 +1,112 @@
-\documentclass[12pt]{article}
+‎\documentclass{article}‎
+
+‎\usepackage[svgnames]{xcolor}‎
+‎\usepackage{tcolorbox}‎
+‎\usepackage{amsmath,amsfonts,amssymb,amsthm}‎
+‎\usepackage[top=2.5cm,right=3.5cm,bottom=2.5cm,left=2.5cm]{geometry}‎  
+
+%----------------------------------------------------------------------------------------
+%     ‎MAPLE CODE‎
+%----------------------------------------------------------------------------------------
+
+‎\tcbuselibrary{listings,skins,theorems}‎
+
+‎\lstdefinelanguage{Maple}{‎
+            ‎morekeywords={‎
+            ‎and,assuming,break,by,catch,description,do,done‎,
+            ‎elif,else,end,error,export,fi,finally,for,from,global,if‎,
+            ‎implies,in,intersect,local,minus,mod,module,next,not,od‎,
+            ‎option,options,or,proc,quit,read,return,save,stop,subset,then‎,
+            ‎to,try,union,use,uses,while,xor‎
+            ‎}‎,
+            ‎sensitive=true‎,
+            ‎keywordstyle=\color{black}‎,
+            ‎morecomment=[l][\color{green!50!black}]\#‎,
+            ‎morestring=[b]"‎,
+            ‎morestring=[d]‎"
+            ‎aboveskip={0pt}‎,
+            ‎belowskip={0pt}‎,
+            ‎}[keywords,comments,strings]‎
+
+‎\makeatletter‎
+‎\tcbset{every listing line/.code={%‎
+  ‎\def\lst@NewLine{%‎
+      ‎\ifx\lst@OutputBox\@gobble\else‎
+          ‎\par\noindent \hbox{}#1%‎
+      ‎\fi‎
+      ‎\global\advance\lst@newlines\m@ne‎
+      ‎\lst@newlinetrue}}}‎
+‎\makeatother‎
+
+‎\newtcblisting{code}[1]{‎
+             ‎skin=bicolor‎,
+             ‎colback=white‎,
+             ‎colbacklower=white‎,
+             ‎colupper=red!40!black‎,
+             ‎collower=blue‎,
+             ‎listing options={language={Maple}}‎,
+             ‎fontupper=\ttfamily\bfseries‎,
+             ‎boxrule=0mm‎,
+             ‎top=0mm,bottom=0mm,middle=0mm‎,
+%             ‎center lower‎,
+             ‎nobeforeafter‎, 
+           ‎listing and comment‎,
+           ‎comment=‎{‎ #1}‎,
+           ‎every listing line={\textcolor{red!40!black}{\ttfamily>‎ }}
+           }
+
+‎\newdimen\Tab‎
+‎\Tab=3ex‎
+‎\def\mapleIndent#1{\hbox{\hskip#1\Tab\relax}}‎
+
+‎\begin{document}‎
+
+
+
+
+‎\begin{code}{ F‎ :‎= proc()‎ "‎Hello World‎ " ‎end proc}‎
+‎F‎ :‎= proc() # comment‎
+     "‎Hello World‎"
+‎end proc;‎
+‎\end{code}‎
+
+
+‎\begin{code}{}‎
+‎Max‎ :‎= proc()‎
+‎local i,m;‎ 
+‎if nargs = 0 then‎
+‎return‎ -‎infinity‎
+‎end if;‎
+‎m‎ :‎= args[1];‎
+‎for i from 2 to nargs do‎
+‎if args[i] > m then‎
+‎m‎ :‎= args[i]‎
+‎end if;‎
+‎end do;‎
+‎m;‎
+‎end proc‎:
+‎\end{code}‎
+
+
+
+
+‎\begin{code}{‎
+‎Fib‎ :‎= proc(n::nonnegint)\\‎
+‎option remember;\\‎
+‎\mapleIndent{1} if ‎‎$‎n < 2‎$‎ then ‎‎$‎n‎$‎ else Fib‎$‎(n‎ - ‎1)‎$‎‎ + ‎Fib‎$‎(n‎ - ‎2)‎$‎ end if\\‎
+‎end proc}‎
+‎Fib‎ :‎= proc( n‎ :: ‎nonnegint‎ )
+     ‎option remember;‎
+     ‎if ‎‎n<2‎‎ then‎
+          ‎‎‎n‎‎‎
+     ‎else‎
+          ‎Fib‎‎(n-1)‎‎‎ + ‎Fib‎‎(n-2)‎‎‎
+     ‎end if;‎
+‎end proc;‎
+‎\end{code}‎
+
+
+‎\end{document}‎\documentclass[12pt]{article}
 \usepackage{amsmath,amsxtra,amssymb,latexsym, amscd,amsthm}
 \usepackage{indentfirst}
 \usepackage[mathscr]{eucal}
@@ -11,6 +119,7 @@
 \usepackage{spverbatim}
 \usepackage{subcaption}
 \usepackage{hyperref}
+\usepackage{fancyvrb}
 \hypersetup{
     colorlinks=true,
     linkcolor=blue,
@@ -31,7 +140,7 @@
 \sloppy
 \makeatletter\@addtoreset{section}{part}\makeatother %.......
 \begin{document}
-  \input biasach.tex
+  \input Cover.tex
   \newpage
   \vspace*{2cm}
   \section*{LỜI MỞ ĐẦU} 
@@ -115,7 +224,7 @@
             \begin{itemize}
               \item[B1.] Nếu $h < 2$ xét điểm tiếp theo.
               \item[B2.] Gọi $\overrightarrow{\rm u} = \overrightarrow{\rm H_{h-1}H_{h}}$ và $\overrightarrow{\rm v} = \overrightarrow{\rm H_hP}$. 
-                Do ta đang di chuyển theo chiều kim đồng hồ nên để tìm chuỗi trên nên ta kiểm tra xem $\overrightarrow{u}x\overrightarrow{v}$ có nhỏ hơn 0 hay không.
+                Do ta đang di chuyển theo chiều kim đồng hồ nên để tìm chuỗi trên nên ta kiểm tra xem $\overrightarrow{u}$ x $\overrightarrow{v}$ có nhỏ hơn 0 hay không.
                 Nếu có ta xét điểm tiếp theo, nếu không ta loại bỏ $H_h$ quay lại bước B1.
               \item[B3.] Thêm điểm $P$ vào $H$
             \end{itemize}
@@ -174,7 +283,7 @@
   \part{Biểu diễn bài toán với Maple}
     \section{Mã nguồn}
       Mã nguồn được viết và thể hiện bằng ứng dụng Maple. Gồm 2 hàm chính là: "isCCW", "ConvexHull" để tìm tập bao lồi và 3 hàm phụ giúp ta có thực nghiệm rõ ràng hơn.
-      \subsection{Hàm chính}
+      \subsection{Hàm tìm tập bao lồi }
       \subsubsection{Hàm "isCCW"}
         Hàm kiểm tra hướng đi của vector, được sử dụng trong việc tìm bao lồi trên và dưới.
         \begin{itemize}
@@ -186,14 +295,14 @@
             \item Nhiệm vụ: Kiểm tra hướng đi từ điểm b đến c có đi theo hướng cùng chiều kim đồn hồ hay không ? (Đã đi từ a đến b)
           \end{itemize}
         \item Code by Maple 
-        \begin{verbatim}
+        \begin{Verbatim}[frame=single]
   isCCW := proc(a,b,c)
     #counterclockwise
     local d;
-    d := a[1]*(b[2] - c[2]) + b[1]*(c[2] - a[2]) + c[1]*(a[2]-b[2]):
+    d:= a[1]*(b[2]-c[2])+b[1]*(c[2]-a[2])+c[1]*(a[2]-b[2]):
     if d > 0 then return true; else return false; fi:
   end proc:
-        \end{verbatim}
+        \end{Verbatim}
       \end{itemize}
         \newpage
       \subsubsection{Hàm "ConvexHull"}
@@ -207,36 +316,38 @@
             \item Nhiệm vụ: Tìm tập điểm nằm trên bao lồi được liệt kê theo hướng cùng chiều kim đồng hồ
           \end{itemize}
         \item Code by Maple:
-        \begin{verbatim}
+        \begin{Verbatim}[frame=single]
   ConvexHull := proc(P)
     local res,up,low,nUp,nlow,nPo,i,j,Ps:
-    Ps := {op(P)}; #Chuyển về tập set để sắp xếp, loại bỏ lặp
+    Ps := {op(P)};
     nUp := 0: nlow := 0: nPo := nops(Ps):
     up := vector(nPo): low:= vector(nPo):
     for i from 1 to nPo do:
       while nUp >= 2 do:
-        if isCCW(up[nUp-1],up[nUp],Ps[i]) then nUp := nUp - 1;
+        if isCCW(up[nUp-1],up[nUp],Ps[i]) then 
+        	nUp := nUp - 1;
         else break; fi;
       od:
       nUp := nUp + 1; up[nUp] := Ps[i]:
     od:
     for i from nPo by -1 to 1 do:
       while nlow >= 2 do:
-        if isCCW(low[nlow-1],low[nlow],Ps[i]) then nlow := nlow - 1:
+        if isCCW(low[nlow-1],low[nlow],Ps[i]) then 
+        	nlow := nlow - 1:
         else break: fi:
       od:
       nlow := nlow + 1: low[nlow]:= Ps[i]:
     od:
     res := vector(nUp + nlow - 2):
     for i from 1 to nUp do: res[i] := up[i]: od:
-    for j from 2 to nlow-1 do: res[j - 1 + nUp]:= low[j]: od:
+    for j from 2 to nlow-1 do: res[j- 1+ nUp]:= low[j]: od:
     return convert(res,list):
   end proc:
-        \end{verbatim}
+        \end{Verbatim}
       \end{itemize}
         \newpage
-    \subsection{Hàm phụ}
-      \subsubsection{Hàm 'RandPoints'}
+    \subsection{Hàm khởi tạo dữ liệu thực nghiệm}
+      \subsubsection*{Hàm "RandPoints"}
         Hàm tạo tập điểm ngẫu nhiên cho thực nhiệm. Khả dụng sinh $10^6$ điểm nhưng với độ phức tạp $O(n \log n)$ của thuật toán chỉ nên tạo $10^5$ điểm.
         \begin{itemize}
           \item Mô tả: 
@@ -252,7 +363,7 @@
             \item Nhiệm vụ: Sinh n điểm ngẫu nhiên
           \end{itemize}
         \item Code by Maple
-          \begin{verbatim}
+          \begin{Verbatim}[frame=single]
   RandPoints := proc(n,range_x,range_y)
     local P,roll, i, x, y:
     P:= vector(n): d:= 1:
@@ -264,10 +375,11 @@
     end do:
     return convert(P,list):
   end proc:
-          \end{verbatim}
+          \end{Verbatim}
         \end{itemize}
         \newpage
-      \subsubsection{Hàm 'myPlot'}
+    \subsection{Hàm biểu diễn thuật toán}
+      \subsubsection{Hàm "myPlot"}
         Hàm làm nhiệm vụ đơn giản nhưng phải có vì cần sử dụng trong hàm "animate" của Maple giúp vẽ hình ảnh động.
         \begin{itemize}
           \item Mô tả:
@@ -278,12 +390,15 @@
             \item Nhiệm vụ: Lấy plot thứ i của danh sách listPlots
           \end{itemize}
           \item Code by Maple
-            \begin{verbatim}
+            \begin{Verbatim}[frame=single]
   myPlot := (p,listPlots) ->  listPlots[trunc(p)];
-            \end{verbatim}
+            \end{Verbatim}
         \end{itemize}
-      \subsubsection{Hàm 'AniConvexHull'}
-        Hàm tạo ảnh động thể hiện các bước thực hiện của thuật toán. Vì đâu là ảnh động biểu diễn trực quan nên chỉ khả dụng với tập điểm với số lượng điểm \textbf{nhỏ hơn 50} !
+      \subsubsection{Hàm "AniConvexHull"}
+        Hàm tạo ảnh động biểu diễn thuật toán. Vì đâu là ảnh động biểu diễn trực quan nên chỉ khả dụng với tập điểm với số lượng điểm \textbf{nhỏ hơn 50} !
+        
+        Tại mỗi bước của thuật toán, ta tạo 1 plot thể hiện bước đó, xong tập hợp các plot lại và sử dụng hàm animate của maple với hàm "myPlot" vừa tạo ở trên 
+        để vẽ được ảnh động.
         \begin{itemize}
           \item Mô tả:
           \begin{itemize}
@@ -292,64 +407,71 @@
             \item Nhiệm vụ: Tạo ảnh động thể hiện các bước đi của thuật toán
           \end{itemize}
           \item Code by Maple
-            \begin{spverbatim}
+            \footnotesize
+            \begin{Verbatim}[frame=single]
   AniConvexHull := proc(P,Axes,Scaling)
-    local res, up, low, nUp, nlow, nPo, nPl, i, j, Ps, p, l, aniUp, aniLow:
-    Ps := {op(P)}:
-    nPo := nops(Ps):
-    up := vector(nPo): low:= vector(nPo):
-    Plots := vector(5*nPo):
-    nPl := 0:
-    p := pointplot([Ps[1],Ps[nPo]], color = red,symbol = solidcircle, symbolsize = 30, axes = Axes, scaling = Scaling):
-    bg := display(pointplot(P,symbol = solidcircle, symbolsize = 15, axes = Axes, scaling = Scaling),p):
-    Plots[1] := p: nPl := 1:
+    local res, up, low, nUp, nlow, nPo, nPl, i, j, Ps, p, l, 
+          aniUp, aniLow:
+    Ps:= {op(P)}: nPo:= nops(Ps):
+    up:= vector(nPo): low:= vector(nPo):
+    Plots:= vector(5*nPo): nPl:= 0:
+    p:= pointplot([Ps[1],Ps[nPo]], color= red,symbol= solidcircle,
+    symbolsize = 30, axes = Axes, scaling = Scaling):
+    bg:= display(pointplot(P,symbol= solidcircle, 
+    symbolssize= 15,axes= Axes, scaling= Scaling),p):
+    Plots[1]:= p: nPl:= 1:
     #-------Up---------#
     up[1] := Ps[1]: nUp:= 1:
     for i from 2 to nPo do:
-      p := display(p, line(up[nUp], Ps[i], color = red, thickness= 3));
+      p := display(p,line(up[nUp],Ps[i],color = red, thickness= 3));
       nPl := nPl + 1: Plots[nPl] := p:
       while nUp >= 2 do:
         if isCCW(up[nUp-1],up[nUp],Ps[i]) then
-          l := line(up[nUp],Ps[i],color = gray, thickness= 3);
-          p := display(p,l): nPl := nPl + 1: Plots[nPl] := p:
-          l := line(up[nUp-1],up[nUp],color = gray, thickness= 3);
-          p := display(p,l): nPl := nPl + 1: Plots[nPl] := p:
-          l := line(up[nUp-1],Ps[i],color = red,thickness= 3);
-          p := display(p,l): nPl := nPl + 1: Plots[nPl] := p:
+          l:= line(up[nUp],Ps[i],color= gray, thickness=3);
+          p:= display(p,l): nPl:= nPl+ 1: Plots[nPl]:= p:
+          l:= line(up[nUp-1],up[nUp],color= gray, thickness=3);
+          p:= display(p,l): nPl:= nPl+ 1: Plots[nPl]:= p:
+          l:= line(up[nUp-1],Ps[i],color = red, thickness=3);
+          p:= display(p,l): nPl:= nPl + 1: Plots[nPl]:= p:
           nUp := nUp - 1:
         else break: fi:
       od:
-      nUp := nUp + 1: up[nUp] := Ps[i]:
+      nUp:= nUp + 1: up[nUp]:= Ps[i]:
     od:
-    aniUp := animate(myPlot,[t,Plots],t=1..nPl,background=bg, frames = nPl, title="Convex Hull - Up");
+    aniUp := animate(myPlot,[t,Plots],t=1..nPl,background=bg, 
+             frames = nPl, title="Convex Hull - Up");
     #-------low---------#
-    p := pointplot([Ps[1],Ps[nPo]],color = red,symbol = solidcircle, symbolsize = 30, axes = Axes, scaling = Scaling):
+    p := pointplot([Ps[1],Ps[nPo]],color= red,symbol= solidcircle, 
+    symbolsize= 30, axes= Axes, scaling= Scaling):
     Plots[1] := p: nPl := 1:
     low[1] := Ps[nPo]: nlow := 1:
     for i from nPo - 1 by -1 to 1 do:
-      p := display(p, line(low[nlow], Ps[i], color = red, thickness= 3));
+      p:= display(p, line(low[nlow],Ps[i],color= red,thickness=3));
       nPl := nPl + 1: Plots[nPl] := p:
       while nlow >= 2 do:
         if isCCW(low[nlow-1],low[nlow],Ps[i]) then 
-          l := line(low[nlow],Ps[i],color = gray, thickness= 3);
-          p := display(p,l): nPl := nPl + 1: Plots[nPl] := p:
-          l := line(low[nlow-1],low[nlow],color = gray, thickness= 3);
-          p := display(p,l): nPl := nPl + 1: Plots[nPl] := p:
-          l := line(low[nlow-1],Ps[i],color = red,thickness= 3);
-          p := display(p,l): nPl := nPl + 1: Plots[nPl] := p:
+          l:= line(elow[nlow],Ps[i],color= gray, thickness= 3);
+          p:= display(p,l): nPl:= nPl + 1: Plots[nPl]:= p:
+          l:= line(low[nlow-1],low[nlow],
+          	   color= gray, thickness= 3);
+          p:= display(p,l): nPl:= nPl + 1: Plots[nPl]:= p:
+          l:= line(low[nlow-1],Ps[i],color= red, thickness= 3);
+          p:= display(p,l): nPl:= nPl + 1: Plots[nPl]:= p:
           nlow := nlow - 1:
         else break: fi:
       od:
       nlow := nlow + 1: low[nlow]:= Ps[i]:
     od:
-    aniLow := animate(myPlot,[t,Plots],t=1..nPl,background=bg, frames = nPl,title="Convex Hull - low");
+    aniLow := animate(myPlot,[t,Plots],t=1..nPl,background=bg, 
+              frames = nPl,title="Convex Hull - low");
     res := vector(nUp + nlow - 2):
     for i from 1 to nUp do: res[i] := up[i]: od:
     for j from 2 to nlow-1 do: res[j - 1 + nUp]:= low[j]: od:
-    poly := polygon(convert(res,list),linestyle = solid, color = "white",thickness= 3);
+    poly := polygon(convert(res,list),linestyle = solid, 
+    color = "white",thickness= 3);
     return [aniUp,aniLow,display(poly,bg)]:
   end:
-            \end{spverbatim}
+            \end{Verbatim}
             \newpage
         \end{itemize}
     \section{Thực nghiệm} 
@@ -371,23 +493,25 @@
           \subsubsection*{Lệnh}
             \begin{spverbatim}
     >Points := RandPoints(10,-800 .. 900, -1000 .. 1200): [1]
-    >display(point(Points,symbol = solidcircle, symbolsize = 15),axes = Axes, scaling = Scaling)); [2]
+    >display(point(Points,symbol = solidcircle, 
+    symbolsize = 15),axes = Axes, scaling = Scaling)); [2]
             \end{spverbatim}
           \subsubsection*{Giải thích}
             \begin{itemize}
               \item [1]: Sinh ngẫu nhiên 10 điểm với tọa độ x nằm trong khoảng -800 đến 900 và tọa độ y trong khoảng -1000 đến 1200 sau đó gán và biến Points.
-              \item [2]: Vẽ plot các điểm vừa tạo.
+              \item [2]: Vẽ plot các điểm vừa tạo. Với Axes = none, Scaling = unconstrained. 
             \end{itemize}
           \subsubsection*{Kết quả} 
             Kết quả ta sẽ có 1 plot thể hiện 10 điểm được sinh ngẫu nhiên như hình \ref{fig: points}
             \newpage
         \subsection*{Tìm bao lồi}
             \subsubsection*{Lệnh}
-              \begin{spverbatim}
+              \begin{verbatim}
   >p:= ConvexHull(Points): [1]
   >poly := polygon(p,linestyle = solid, color = "White" ): [2]
-  >display(poly,point(Points,symbol = solidcircle, symbolsize = 15),axes = Axes, scaling = Scaling)); [3]
-              \end{spverbatim}
+  >display(poly,point(Points,symbol = solidcircle, 
+  symbolsize = 15),axes = Axes, scaling = Scaling)); [3]
+              \end{verbatim}
             \subsubsection*{Giải thích}
               \begin{itemize}
                 \item [1]: Thực hiện thuật toán trả về tập bao lồi của danh sách điểm Points vừa tạo ở trên gắn vào biến p
@@ -414,10 +538,52 @@
             \animategraphics[loop,autoplay,width=7cm]{1}{GIF/Up-}{0}{27}
             \animategraphics[loop,autoplay,width=7cm]{1}{GIF/Low-}{0}{30}
           \end{frame}
-          \\
           \begin{center}
             Chú ý: Ảnh động khả dụng khi đọc bởi "Adobe Reader" !
           \end{center}
+          \newpage
+        \subsubsection*{Một số hình ảnh} 
+          Liệt kê các bước thuật toán khi thực hiện tìm bao lồi bên trên theo tứ tự a, b, c .. được dán nhãn như hình dưới.
+          \begin{figure}[h]
+            \centering
+            \begin{subfigure}[h]{0.275\linewidth}
+              \includegraphics[width=\linewidth]{GIF/Up-2}
+              \caption{}
+            \end{subfigure}
+            \begin{subfigure}[h]{0.275\linewidth}
+              \includegraphics[width=\linewidth]{GIF/Up-3}
+              \caption{}
+            \end{subfigure}
+            \begin{subfigure}[h]{0.275\linewidth}
+              \includegraphics[width=\linewidth]{GIF/Up-4}
+              \caption{}
+            \end{subfigure}
+            \begin{subfigure}[h]{0.275\linewidth}
+              \includegraphics[width=\linewidth]{GIF/Up-5}
+              \caption{}
+            \end{subfigure}
+            \begin{subfigure}[h]{0.275\linewidth}
+              \includegraphics[width=\linewidth]{GIF/Up-6}
+              \caption{}
+            \end{subfigure}
+            \begin{subfigure}[h]{0.275\linewidth}
+              \includegraphics[width=\linewidth]{GIF/Up-7}
+              \caption{}
+            \end{subfigure}
+            \begin{subfigure}[h]{0.275\linewidth}
+              \includegraphics[width=\linewidth]{GIF/Up-8}
+              \caption{}
+            \end{subfigure}
+            \begin{subfigure}[h]{0.275\linewidth}
+              \includegraphics[width=\linewidth]{GIF/Up-9}
+              \caption{}
+            \end{subfigure}
+            \begin{subfigure}[h]{0.275\linewidth}
+              \includegraphics[width=\linewidth]{GIF/Up-10}
+              \caption{}
+            \end{subfigure}
+            \caption{Bước đi của thuật toán}
+          \end{figure}
         \newpage
     \section{Giao diện trong ConvexHullSuper.mw}
       \subsection{Mã nguồn}  

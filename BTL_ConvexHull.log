@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.1.20)  10 FEB 2019 13:17
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.1.20)  17 FEB 2019 16:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -996,39 +996,48 @@ Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 282.
 )
 \Hy@SectionHShift=\skip70
+) (/usr/share/texlive/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
+Package: fancyvrb 2008/02/07
+ Style option: `fancyvrb' v2.7a, with DG/SPQR fixes, and firstline=lastline fix <2008/02/07> (tvz)
+\FV@CodeLineNo=\count290
+\FV@InFile=\read2
+\FV@TabBox=\box48
+\c@FancyVerbLine=\count291
+\FV@StepNumber=\count292
+\FV@OutFile=\write3
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 19.
+Package hyperref Info: Option `colorlinks' set `true' on input line 20.
  (/home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/BTL_ConvexHull.aux)
 \openout1 = `BTL_ConvexHull.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
  (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count290
+\scratchcounter=\count293
 \scratchdimen=\dimen163
-\scratchbox=\box48
-\nofMPsegments=\count291
-\nofMParguments=\count292
+\scratchbox=\box49
+\nofMPsegments=\count294
+\nofMParguments=\count295
 \everyMPshowfont=\toks34
-\MPscratchCnt=\count293
+\MPscratchCnt=\count296
 \MPscratchDim=\dimen164
-\MPnumerator=\count294
-\makeMPintoPDFobject=\count295
+\MPnumerator=\count297
+\makeMPintoPDFobject=\count298
 \everyMPtoPDFconversion=\toks35
 ) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
@@ -1042,26 +1051,26 @@ Package grfext Info: Graphics extension search list:
  (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-\AtBeginShipoutBox=\box49
+\AtBeginShipoutBox=\box50
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring ON on input line 33.
+Package hyperref Info: Link coloring ON on input line 34.
  (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
  (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count296
+\c@section@level=\count299
 )
-LaTeX Info: Redefining \ref on input line 33.
-LaTeX Info: Redefining \pageref on input line 33.
-LaTeX Info: Redefining \nameref on input line 33.
+LaTeX Info: Redefining \ref on input line 34.
+LaTeX Info: Redefining \pageref on input line 34.
+LaTeX Info: Redefining \nameref on input line 34.
  (/home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/BTL_ConvexHull.out) (/home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/BTL_ConvexHull.out)
-\@outlinefile=\write3
-\openout3 = `BTL_ConvexHull.out'.
+\@outlinefile=\write4
+\openout4 = `BTL_ConvexHull.out'.
 
- (/home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/biasach.tex
+ (/home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/Cover.tex
 <Image/LogoTLU.jpg, id=112, 481.8pt x 481.8pt>
 File: Image/LogoTLU.jpg Graphic file (type jpg)
 <use Image/LogoTLU.jpg>
@@ -1088,7 +1097,7 @@ Overfull \hbox (46.35164pt too wide) in paragraph at lines 27--27
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/Image/LogoTLU.jpg>])pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.35   \newpage
+l.36   \newpage
                 [1]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1097,8 +1106,8 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [2] (/home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/BTL_ConvexHull.toc)
-\tf@toc=\write4
-\openout4 = `BTL_ConvexHull.toc'.
+\tf@toc=\write5
+\openout5 = `BTL_ConvexHull.toc'.
 
 
 
@@ -1111,42 +1120,6 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 Package hyperref Warning: Composite letter `\textasciigrave+\ocircumflex'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textasciigrave' on input line 57.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ocircumflex' on input line 57.
-
-
-Package hyperref Warning: Composite letter `\textdotbelow+\acircumflex'
-(hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textdotbelow' on input line 57.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\acircumflex' on input line 57.
-
-
-Package hyperref Warning: Composite letter `\textacute+\ohorn'
-(hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textacute' on input line 58.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ohorn' on input line 58.
-
-
-Package hyperref Warning: Composite letter `\textdotbelow+\ecircumflex'
-(hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textdotbelow' on input line 58.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ecircumflex' on input line 58.
-
-
-Package hyperref Warning: Composite letter `\textasciigrave+\ocircumflex'
-(hyperref)                not defined in PD1 encoding,
 (hyperref)                removing `\textasciigrave' on input line 58.
 
 
@@ -1154,97 +1127,133 @@ Package hyperref Warning: Glyph not defined in PD1 encoding,
 (hyperref)                removing `\ocircumflex' on input line 58.
 
 
-Package hyperref Warning: Composite letter `\textdotbelow+i'
+Package hyperref Warning: Composite letter `\textdotbelow+\acircumflex'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textdotbelow' on input line 58.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\acircumflex' on input line 58.
+
+
+Package hyperref Warning: Composite letter `\textacute+\ohorn'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textacute' on input line 59.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\ohorn' on input line 59.
+
+
+Package hyperref Warning: Composite letter `\textdotbelow+\ecircumflex'
 (hyperref)                not defined in PD1 encoding,
 (hyperref)                removing `\textdotbelow' on input line 59.
 
 
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\ecircumflex' on input line 59.
+
+
+Package hyperref Warning: Composite letter `\textasciigrave+\ocircumflex'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textasciigrave' on input line 59.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\ocircumflex' on input line 59.
+
+
+Package hyperref Warning: Composite letter `\textdotbelow+i'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textdotbelow' on input line 60.
+
+
 Package hyperref Warning: Composite letter `\texttilde+\i'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\texttilde' on input line 59.
+(hyperref)                removing `\texttilde' on input line 60.
 
 <Image/ConvexHull.png, id=162, 258.9675pt x 206.7725pt>
 File: Image/ConvexHull.png Graphic file (type png)
 <use Image/ConvexHull.png>
-Package pdftex.def Info: Image/ConvexHull.png  used on input line 65.
+Package pdftex.def Info: Image/ConvexHull.png  used on input line 66.
 (pdftex.def)             Requested size: 139.42093pt x 111.32419pt.
 <Image/ch_nail.png, id=163, 209.78375pt x 142.5325pt>
 File: Image/ch_nail.png Graphic file (type png)
 <use Image/ch_nail.png>
-Package pdftex.def Info: Image/ch_nail.png  used on input line 70.
+Package pdftex.def Info: Image/ch_nail.png  used on input line 71.
 (pdftex.def)             Requested size: 139.42093pt x 94.72636pt.
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\h' on input line 76.
+(hyperref)                removing `\h' on input line 77.
 
 
 Package hyperref Warning: Composite letter `\textdotbelow+\uhorn'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textdotbelow' on input line 76.
+(hyperref)                removing `\textdotbelow' on input line 77.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\uhorn' on input line 76.
+(hyperref)                removing `\uhorn' on input line 77.
 
 
 Package hyperref Warning: Composite letter `\textasciigrave+\ecircumflex'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textasciigrave' on input line 76.
+(hyperref)                removing `\textasciigrave' on input line 77.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ecircumflex' on input line 76.
+(hyperref)                removing `\ecircumflex' on input line 77.
 
 
 Package hyperref Warning: Composite letter `\textasciigrave+\ocircumflex'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textasciigrave' on input line 76.
+(hyperref)                removing `\textasciigrave' on input line 77.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ocircumflex' on input line 76.
+(hyperref)                removing `\ocircumflex' on input line 77.
 
 
 Package hyperref Warning: Composite letter `\textdotbelow+\abreve'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textdotbelow' on input line 76.
+(hyperref)                removing `\textdotbelow' on input line 77.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\abreve' on input line 76.
+(hyperref)                removing `\abreve' on input line 77.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\h' on input line 76.
+(hyperref)                removing `\h' on input line 77.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\abreve' on input line 76.
+(hyperref)                removing `\abreve' on input line 77.
 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 79.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 80.
 (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 79.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 80.
 
 
 Package hyperref Warning: Composite letter `\textdotbelow+\acircumflex'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textdotbelow' on input line 83.
+(hyperref)                removing `\textdotbelow' on input line 84.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\acircumflex' on input line 83.
+(hyperref)                removing `\acircumflex' on input line 84.
 
 
 Package hyperref Warning: Composite letter `\textasciigrave+\ocircumflex'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textasciigrave' on input line 83.
+(hyperref)                removing `\textasciigrave' on input line 84.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ocircumflex' on input line 83.
+(hyperref)                removing `\ocircumflex' on input line 84.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1256,30 +1265,30 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 Package hyperref Warning: Composite letter `\textacute+\ohorn'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textacute' on input line 85.
+(hyperref)                removing `\textacute' on input line 86.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ohorn' on input line 85.
+(hyperref)                removing `\ohorn' on input line 86.
 
 
 Package hyperref Warning: Composite letter `\textdotbelow+\ecircumflex'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textdotbelow' on input line 85.
+(hyperref)                removing `\textdotbelow' on input line 86.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ecircumflex' on input line 85.
+(hyperref)                removing `\ecircumflex' on input line 86.
 
 <Image/cw.png, id=174, 510.90875pt x 471.7625pt>
 File: Image/cw.png Graphic file (type png)
 <use Image/cw.png>
-Package pdftex.def Info: Image/cw.png  used on input line 91.
+Package pdftex.def Info: Image/cw.png  used on input line 92.
 (pdftex.def)             Requested size: 159.333pt x 147.12308pt.
 <Image/upperandlower.png, id=175, 195.73125pt x 155.83218pt>
 File: Image/upperandlower.png Graphic file (type png)
 <use Image/upperandlower.png>
-Package pdftex.def Info: Image/upperandlower.png  used on input line 96.
+Package pdftex.def Info: Image/upperandlower.png  used on input line 97.
 (pdftex.def)             Requested size: 159.333pt x 126.86063pt.
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1291,11 +1300,11 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 Package hyperref Warning: Composite letter `\textdotbelow+\acircumflex'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textdotbelow' on input line 109.
+(hyperref)                removing `\textdotbelow' on input line 110.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\acircumflex' on input line 109.
+(hyperref)                removing `\acircumflex' on input line 110.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1306,9 +1315,9 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [6]
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\h' on input line 125.
+(hyperref)                removing `\h' on input line 126.
 
-Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on input line 128.
+Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on input line 129.
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.93912pt.
@@ -1318,47 +1327,61 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 [7]
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\h' on input line 174.
+(hyperref)                removing `\h' on input line 175.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ecircumflex' on input line 174.
+(hyperref)                removing `\ecircumflex' on input line 175.
 
 
 Package hyperref Warning: Composite letter `\texttilde+\ecircumflex'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\texttilde' on input line 174.
+(hyperref)                removing `\texttilde' on input line 175.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ecircumflex' on input line 174.
+(hyperref)                removing `\ecircumflex' on input line 175.
 
 
 Package hyperref Warning: Composite letter `\textacute+\ohorn'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textacute' on input line 174.
+(hyperref)                removing `\textacute' on input line 175.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ohorn' on input line 174.
+(hyperref)                removing `\ohorn' on input line 175.
 
 
 Package hyperref Warning: Composite letter `\textasciigrave+\ocircumflex'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textasciigrave' on input line 175.
+(hyperref)                removing `\textasciigrave' on input line 176.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ocircumflex' on input line 175.
+(hyperref)                removing `\ocircumflex' on input line 176.
 
-LaTeX Font Info:    Try loading font information for T5+cmtt on input line 189.
+
+Package hyperref Warning: Composite letter `\textdotbelow+\acircumflex'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textdotbelow' on input line 178.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\acircumflex' on input line 178.
+
+
+Package hyperref Warning: Composite letter `\textasciigrave+\ocircumflex'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textasciigrave' on input line 178.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\ocircumflex' on input line 178.
+
+LaTeX Font Info:    Try loading font information for T5+cmtt on input line 190.
 (/usr/share/texlive/texmf-dist/tex/latex/vntex/t5cmtt.fd
 File: t5cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
-Overfull \hbox (50.8336pt too wide) in paragraph at lines 196--196
- []    \T5/cmtt/m/n/12 d := a[1]*(b[2] - c[2]) + b[1]*(c[2] - a[2]) + c[1]*(a[2]-b[2]):[] 
- []
-
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.49998pt.
@@ -1366,25 +1389,6 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [8]
-Overfull \hbox (7.61916pt too wide) in paragraph at lines 235--235
- []    \T5/cmtt/m/n/12 Ps := {op(P)}; #Chuyºn v· tªp set ^^_º s­p x¸p, lo¤i bä l°p[] 
- []
-
-
-Overfull \hbox (13.79265pt too wide) in paragraph at lines 235--235
- []        \T5/cmtt/m/n/12 if isCCW(up[nUp-1],up[nUp],Ps[i]) then nUp := nUp - 1;[] 
- []
-
-
-Overfull \hbox (50.8336pt too wide) in paragraph at lines 235--235
- []        \T5/cmtt/m/n/12 if isCCW(low[nlow-1],low[nlow],Ps[i]) then nlow := nlow - 1:[] 
- []
-
-
-Overfull \hbox (7.61916pt too wide) in paragraph at lines 235--235
- []    \T5/cmtt/m/n/12 for j from 2 to nlow-1 do: res[j - 1 + nUp]:= low[j]: od:[] 
- []
-
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.93912pt.
@@ -1393,9 +1397,53 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 [9]
 
-Package hyperref Warning: Composite letter `\textdotbelow+u'
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\h' on input line 241.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\ohorn' on input line 241.
+
+
+Package hyperref Warning: Composite letter `\textdotbelow+a'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textdotbelow' on input line 238.
+(hyperref)                removing `\textdotbelow' on input line 241.
+
+
+Package hyperref Warning: Composite letter `\texttilde+\uhorn'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\texttilde' on input line 241.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\uhorn' on input line 241.
+
+
+Package hyperref Warning: Composite letter `\textdotbelow+\ecircumflex'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textdotbelow' on input line 241.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\ecircumflex' on input line 241.
+
+
+Package hyperref Warning: Composite letter `\textdotbelow+\uhorn'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textdotbelow' on input line 241.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\uhorn' on input line 241.
+
+
+Package hyperref Warning: Composite letter `\textdotbelow+\ecircumflex'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textdotbelow' on input line 241.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\ecircumflex' on input line 241.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1404,24 +1452,31 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [10]
-Underfull \hbox (badness 10000) in paragraph at lines 352--352
- [][] [] [] [] \T5/cmtt/m/n/12 local[] res,[] up,[] low,[] nUp,[] nlow,[] nPo,[] nPl,[] i,[] j,[] Ps,[] p,[]
- []
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\h' on input line 273.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 352--352
- [][] [] [] [] \T5/cmtt/m/n/12 p[] :=[] pointplot([Ps[1],Ps[nPo]],[] color[] =[] red,symbol[]
- []
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\ecircumflex' on input line 273.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 352--352
- \T5/cmtt/m/n/12 =[] solidcircle,[] symbolsize[] =[] 30,[] axes[] =[] Axes,[] scaling[] =[]
- []
+Package hyperref Warning: Composite letter `\texttilde+\ecircumflex'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\texttilde' on input line 273.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 352--352
- [][] [] [] [] \T5/cmtt/m/n/12 bg[] :=[] display(pointplot(P,symbol[] =[] solidcircle,[]
- []
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\ecircumflex' on input line 273.
+
+
+Package hyperref Warning: Composite letter `\textdotbelow+\acircumflex'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textdotbelow' on input line 273.
+
+
+Package hyperref Warning: Glyph not defined in PD1 encoding,
+(hyperref)                removing `\acircumflex' on input line 273.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1430,70 +1485,6 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [11]
-Underfull \hbox (badness 10000) in paragraph at lines 352--352
- [][] [] [] [] [] [] \T5/cmtt/m/n/12 p[] :=[] display(p,[] line(up[nUp],[] Ps[i],[] color[] =[] red,[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 352--352
- [][] [] [] [] [] [] [] [] [] [] \T5/cmtt/m/n/12 l[] :=[] line(up[nUp],Ps[i],color[] =[] gray,[] thickness=[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 352--352
- [][] [] [] [] [] [] [] [] [] [] \T5/cmtt/m/n/12 p[] :=[] display(p,l):[] nPl[] :=[] nPl[] +[] 1:[] Plots[nPl][] :=[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 352--352
- [][] [] [] [] [] [] [] [] [] [] \T5/cmtt/m/n/12 l[] :=[] line(up[nUp-1],up[nUp],color[] =[] gray,[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 352--352
- [][] [] [] [] [] [] [] [] [] [] \T5/cmtt/m/n/12 p[] :=[] display(p,l):[] nPl[] :=[] nPl[] +[] 1:[] Plots[nPl][] :=[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 352--352
- [][] [] [] [] [] [] [] [] [] [] \T5/cmtt/m/n/12 l[] :=[] line(up[nUp-1],Ps[i],color[] =[] red,thickness=[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 352--352
- [][] [] [] [] [] [] [] [] [] [] \T5/cmtt/m/n/12 p[] :=[] display(p,l):[] nPl[] :=[] nPl[] +[] 1:[] Plots[nPl][] :=[]
- []
-
-
-Overfull \hbox (7.61916pt too wide) in paragraph at lines 352--352
- [][] [] [] [] \T5/cmtt/m/n/12 aniUp[] :=[] animate(myPlot,[t,Plots],t=1..nPl,background=bg,[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 352--352
- [][] [] [] [] \T5/cmtt/m/n/12 p[] :=[] pointplot([Ps[1],Ps[nPo]],color[] =[] red,symbol[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 352--352
- \T5/cmtt/m/n/12 =[] solidcircle,[] symbolsize[] =[] 30,[] axes[] =[] Axes,[] scaling[] =[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 352--352
- [][] [] [] [] [] [] \T5/cmtt/m/n/12 p[] :=[] display(p,[] line(low[nlow],[] Ps[i],[] color[] =[] red,[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 352--352
- [][] [] [] [] [] [] [] [] [] [] \T5/cmtt/m/n/12 l[] :=[] line(low[nlow],Ps[i],color[] =[] gray,[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 352--352
- [][] [] [] [] [] [] [] [] [] [] \T5/cmtt/m/n/12 p[] :=[] display(p,l):[] nPl[] :=[] nPl[] +[] 1:[] Plots[nPl][] :=[]
- []
-
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.93912pt.
@@ -1501,89 +1492,404 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [12]
-Underfull \hbox (badness 10000) in paragraph at lines 352--352
- [][] [] [] [] [] [] [] [] [] [] \T5/cmtt/m/n/12 l[] :=[] line(low[nlow-1],low[nlow],color[] =[] gray,[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 352--352
- [][] [] [] [] [] [] [] [] [] [] \T5/cmtt/m/n/12 p[] :=[] display(p,l):[] nPl[] :=[] nPl[] +[] 1:[] Plots[nPl][] :=[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 352--352
- [][] [] [] [] [] [] [] [] [] [] \T5/cmtt/m/n/12 l[] :=[] line(low[nlow-1],Ps[i],color[] =[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 352--352
- [][] [] [] [] [] [] [] [] [] [] \T5/cmtt/m/n/12 p[] :=[] display(p,l):[] nPl[] :=[] nPl[] +[] 1:[] Plots[nPl][] :=[]
- []
-
-
-Overfull \hbox (13.79265pt too wide) in paragraph at lines 352--352
- [][] [] [] [] \T5/cmtt/m/n/12 aniLow[] :=[] animate(myPlot,[t,Plots],t=1..nPl,background=bg,[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 352--352
- [][] [] [] [] \T5/cmtt/m/n/12 for[] j[] from[] 2[] to[] nlow-1[] do:[] res[j[] -[] 1[] +[] nUp]:=[] low[j]:[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 352--352
- [][] [] [] [] \T5/cmtt/m/n/12 poly[] :=[] polygon(convert(res,list),linestyle[] =[] solid,[]
- []
-
-
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
- Make it at least 14.93912pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-[13]
 
 Package hyperref Warning: Composite letter `\textdotbelow+\uhorn'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textdotbelow' on input line 355.
+(hyperref)                removing `\textdotbelow' on input line 369.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\uhorn' on input line 355.
+(hyperref)                removing `\uhorn' on input line 369.
 
 
 Package hyperref Warning: Composite letter `\textdotbelow+\ecircumflex'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textdotbelow' on input line 355.
+(hyperref)                removing `\textdotbelow' on input line 369.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ecircumflex' on input line 355.
+(hyperref)                removing `\ecircumflex' on input line 369.
 
-<Image/randPoint.png, id=226, 297.11pt x 297.11pt>
+<Image/randPoint.png, id=224, 297.11pt x 297.11pt>
 File: Image/randPoint.png Graphic file (type png)
 <use Image/randPoint.png>
-Package pdftex.def Info: Image/randPoint.png  used on input line 359.
+Package pdftex.def Info: Image/randPoint.png  used on input line 373.
 (pdftex.def)             Requested size: 159.333pt x 159.33989pt.
-<Image/polych.png, id=227, 336.25626pt x 336.25626pt>
+<Image/polych.png, id=225, 336.25626pt x 336.25626pt>
 File: Image/polych.png Graphic file (type png)
 <use Image/polych.png>
-Package pdftex.def Info: Image/polych.png  used on input line 364.
+Package pdftex.def Info: Image/polych.png  used on input line 378.
 (pdftex.def)             Requested size: 159.333pt x 159.33344pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 375--375
-[][] [] [] [] \T5/cmtt/m/n/12 >display(point(Points,symbol[] =[] solidcircle,[] symbolsize[] =[]
- []
-
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 14.93912pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[14 </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/Image/randPoint.png (PNG copy)> </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/Image/polych.png (PNG copy)>]
-Underfull \hbox (badness 10000) in paragraph at lines 390--390
-[][] [] \T5/cmtt/m/n/12 >display(poly,point(Points,symbol[] =[] solidcircle,[] symbolsize[] =[]
+[13 </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/Image/randPoint.png (PNG copy)> </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/Image/polych.png (PNG copy)>]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.93912pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[14]
+<GIF/Up-0.png, id=245, 300.12125pt x 300.12125pt>
+File: GIF/Up-0.png Graphic file (type png)
+<use GIF/Up-0.png>
+Package pdftex.def Info: GIF/Up-0.png  used on input line 430.
+(pdftex.def)             Requested size: 300.12051pt x 300.12051pt.
+ </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Up-0.png> <a0,fr0>
+<GIF/Up-1.png, id=254, 300.12125pt x 300.12125pt>
+File: GIF/Up-1.png Graphic file (type png)
+<use GIF/Up-1.png>
+Package pdftex.def Info: GIF/Up-1.png  used on input line 430.
+(pdftex.def)             Requested size: 300.12051pt x 300.12051pt.
+ </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Up-1.png> <a0,fr1>
+<GIF/Up-2.png, id=263, 300.12125pt x 300.12125pt>
+File: GIF/Up-2.png Graphic file (type png)
+<use GIF/Up-2.png>
+Package pdftex.def Info: GIF/Up-2.png  used on input line 430.
+(pdftex.def)             Requested size: 300.12051pt x 300.12051pt.
+ </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Up-2.png> <a0,fr2>
+<GIF/Up-3.png, id=272, 300.12125pt x 300.12125pt>
+File: GIF/Up-3.png Graphic file (type png)
+<use GIF/Up-3.png>
+Package pdftex.def Info: GIF/Up-3.png  used on input line 430.
+(pdftex.def)             Requested size: 300.12051pt x 300.12051pt.
+ </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Up-3.png> <a0,fr3>
+<GIF/Up-4.png, id=281, 300.12125pt x 300.12125pt>
+File: GIF/Up-4.png Graphic file (type png)
+<use GIF/Up-4.png>
+Package pdftex.def Info: GIF/Up-4.png  used on input line 430.
+(pdftex.def)             Requested size: 300.12051pt x 300.12051pt.
+ </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Up-4.png> <a0,fr4>
+<GIF/Up-5.png, id=290, 300.12125pt x 300.12125pt>
+File: GIF/Up-5.png Graphic file (type png)
+<use GIF/Up-5.png>
+Package pdftex.def Info: GIF/Up-5.png  used on input line 430.
+(pdftex.def)             Requested size: 300.12051pt x 300.12051pt.
+ </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Up-5.png> <a0,fr5>
+<GIF/Up-6.png, id=299, 300.12125pt x 300.12125pt>
+File: GIF/Up-6.png Graphic file (type png)
+<use GIF/Up-6.png>
+Package pdftex.def Info: GIF/Up-6.png  used on input line 430.
+(pdftex.def)             Requested size: 300.12051pt x 300.12051pt.
+ </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Up-6.png> <a0,fr6>
+<GIF/Up-7.png, id=308, 300.12125pt x 300.12125pt>
+File: GIF/Up-7.png Graphic file (type png)
+<use GIF/Up-7.png>
+Package pdftex.def Info: GIF/Up-7.png  used on input line 430.
+(pdftex.def)             Requested size: 300.12051pt x 300.12051pt.
+ </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Up-7.png> <a0,fr7>
+<GIF/Up-8.png, id=317, 300.12125pt x 300.12125pt>
+File: GIF/Up-8.png Graphic file (type png)
+<use GIF/Up-8.png>
+Package pdftex.def Info: GIF/Up-8.png  used on input line 430.
+(pdftex.def)             Requested size: 300.12051pt x 300.12051pt.
+ </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Up-8.png> <a0,fr8>
+<GIF/Up-9.png, id=326, 300.12125pt x 300.12125pt>
+File: GIF/Up-9.png Graphic file (type png)
+<use GIF/Up-9.png>
+Package pdftex.def Info: GIF/Up-9.png  used on input line 430.
+(pdftex.def)             Requested size: 300.12051pt x 300.12051pt.
+ </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Up-9.png> <a0,fr9>
+<GIF/Up-10.png, id=335, 300.12125pt x 300.12125pt>
+File: GIF/Up-10.png Graphic file (type png)
+<use GIF/Up-10.png>
+Package pdftex.def Info: GIF/Up-10.png  used on input line 430.
+(pdftex.def)             Requested size: 300.12051pt x 300.12051pt.
+ </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Up-10.png> <a0,fr10>
+<GIF/Up-11.png, id=345, 300.12125pt x 300.12125pt>
+File: GIF/Up-11.png Graphic file (type png)
+<use GIF/Up-11.png>
+Package pdftex.def Info: GIF/Up-11.png  used on input line 430.
+(pdftex.def)             Requested size: 300.12051pt x 300.12051pt.
+ </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Up-11.png> <a0,fr11>
+<GIF/Up-12.png, id=354, 300.12125pt x 300.12125pt>
+File: GIF/Up-12.png Graphic file (type png)
+<use GIF/Up-12.png>
+Package pdftex.def Info: GIF/Up-12.png  used on input line 430.
+(pdftex.def)             Requested size: 300.12051pt x 300.12051pt.
+ </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Up-12.png> <a0,fr12>
+<GIF/Up-13.png, id=363, 300.12125pt x 300.12125pt>
+File: GIF/Up-13.png Graphic file (type png)
+<use GIF/Up-13.png>
+Package pdftex.def Info: GIF/Up-13.png  used on input line 430.
+(pdftex.def)             Requested size: 300.12051pt x 300.12051pt.
+ </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Up-13.png> <a0,fr13>
+<GIF/Up-14.png, id=372, 300.12125pt x 300.12125pt>
+File: GIF/Up-14.png Graphic file (type png)
+<use GIF/Up-14.png>
+Package pdftex.def Info: GIF/Up-14.png  used on input line 430.
+(pdftex.def)             Requested size: 300.12051pt x 300.12051pt.
+ </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Up-14.png> <a0,fr14>
+<GIF/Up-15.png, id=381, 300.12125pt x 300.12125pt>
+File: GIF/Up-15.png Graphic file (type png)
+<use GIF/Up-15.png>
+Package pdftex.def Info: GIF/Up-15.png  used on input line 430.
+(pdftex.def)             Requested size: 300.12051pt x 300.12051pt.
+ </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Up-15.png> <a0,fr15>
+<GIF/Up-16.png, id=390, 300.12125pt x 300.12125pt>
+File: GIF/Up-16.png Graphic file (type png)
+<use GIF/Up-16.png>
+Package pdftex.def Info: GIF/Up-16.png  used on input line 430.
+(pdftex.def)             Requested size: 300.12051pt x 300.12051pt.
+ </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Up-16.png> <a0,fr16>
+<GIF/Up-17.png, id=399, 300.12125pt x 300.12125pt>
+File: GIF/Up-17.png Graphic file (type png)
+<use GIF/Up-17.png>
+Package pdftex.def Info: GIF/Up-17.png  used on input line 430.
+(pdftex.def)             Requested size: 300.12051pt x 300.12051pt.
+ </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Up-17.png> <a0,fr17>
+<GIF/Up-18.png, id=408, 300.12125pt x 300.12125pt>
+File: GIF/Up-18.png Graphic file (type png)
+<use GIF/Up-18.png>
+Package pdftex.def Info: GIF/Up-18.png  used on input line 430.
+(pdftex.def)             Requested size: 300.12051pt x 300.12051pt.
+ </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Up-18.png> <a0,fr18>
+<GIF/Up-19.png, id=417, 300.12125pt x 300.12125pt>
+File: GIF/Up-19.png Graphic file (type png)
+<use GIF/Up-19.png>
+Package pdftex.def Info: GIF/Up-19.png  used on input line 430.
+(pdftex.def)             Requested size: 300.12051pt x 300.12051pt.
+ </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Up-19.png> <a0,fr19>
+<GIF/Up-20.png, id=426, 300.12125pt x 300.12125pt>
+File: GIF/Up-20.png Graphic file (type png)
+<use GIF/Up-20.png>
+Package pdftex.def Info: GIF/Up-20.png  used on input line 430.
+(pdftex.def)             Requested size: 300.12051pt x 300.12051pt.
+ </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Up-20.png> <a0,fr20>
+<GIF/Up-21.png, id=435, 300.12125pt x 300.12125pt>
+File: GIF/Up-21.png Graphic file (type png)
+<use GIF/Up-21.png>
+Package pdftex.def Info: GIF/Up-21.png  used on input line 430.
+(pdftex.def)             Requested size: 300.12051pt x 300.12051pt.
+ </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Up-21.png> <a0,fr21>
+<GIF/Up-22.png, id=444, 300.12125pt x 300.12125pt>
+File: GIF/Up-22.png Graphic file (type png)
+<use GIF/Up-22.png>
+Package pdftex.def Info: GIF/Up-22.png  used on input line 430.
+(pdftex.def)             Requested size: 300.12051pt x 300.12051pt.
+ </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Up-22.png> <a0,fr22>
+<GIF/Up-23.png, id=453, 300.12125pt x 300.12125pt>
+File: GIF/Up-23.png Graphic file (type png)
+<use GIF/Up-23.png>
+Package pdftex.def Info: GIF/Up-23.png  used on input line 430.
+(pdftex.def)             Requested size: 300.12051pt x 300.12051pt.
+ </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Up-23.png> <a0,fr23>
+<GIF/Up-24.png, id=462, 300.12125pt x 300.12125pt>
+File: GIF/Up-24.png Graphic file (type png)
+<use GIF/Up-24.png>
+Package pdftex.def Info: GIF/Up-24.png  used on input line 430.
+(pdftex.def)             Requested size: 300.12051pt x 300.12051pt.
+ </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Up-24.png> <a0,fr24>
+<GIF/Up-25.png, id=471, 300.12125pt x 300.12125pt>
+File: GIF/Up-25.png Graphic file (type png)
+<use GIF/Up-25.png>
+Package pdftex.def Info: GIF/Up-25.png  used on input line 430.
+(pdftex.def)             Requested size: 300.12051pt x 300.12051pt.
+ </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Up-25.png> <a0,fr25>
+<GIF/Up-26.png, id=480, 300.12125pt x 300.12125pt>
+File: GIF/Up-26.png Graphic file (type png)
+<use GIF/Up-26.png>
+Package pdftex.def Info: GIF/Up-26.png  used on input line 430.
+(pdftex.def)             Requested size: 300.12051pt x 300.12051pt.
+ </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Up-26.png> <a0,fr26>
+<GIF/Up-27.png, id=489, 300.12125pt x 300.12125pt>
+File: GIF/Up-27.png Graphic file (type png)
+<use GIF/Up-27.png>
+Package pdftex.def Info: GIF/Up-27.png  used on input line 430.
+(pdftex.def)             Requested size: 300.12051pt x 300.12051pt.
+ </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Up-27.png> <a0,fr27>
+<GIF/Low-0.png, id=502, 301.125pt x 301.125pt>
+File: GIF/Low-0.png Graphic file (type png)
+<use GIF/Low-0.png>
+Package pdftex.def Info: GIF/Low-0.png  used on input line 431.
+(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
+ </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Low-0.png> <a1,fr0>
+<GIF/Low-1.png, id=511, 301.125pt x 301.125pt>
+File: GIF/Low-1.png Graphic file (type png)
+<use GIF/Low-1.png>
+Package pdftex.def Info: GIF/Low-1.png  used on input line 431.
+(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
+ </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Low-1.png> <a1,fr1>
+<GIF/Low-2.png, id=520, 301.125pt x 301.125pt>
+File: GIF/Low-2.png Graphic file (type png)
+<use GIF/Low-2.png>
+Package pdftex.def Info: GIF/Low-2.png  used on input line 431.
+(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
+ </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Low-2.png> <a1,fr2>
+<GIF/Low-3.png, id=529, 301.125pt x 301.125pt>
+File: GIF/Low-3.png Graphic file (type png)
+<use GIF/Low-3.png>
+Package pdftex.def Info: GIF/Low-3.png  used on input line 431.
+(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
+ </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Low-3.png> <a1,fr3>
+<GIF/Low-4.png, id=538, 301.125pt x 301.125pt>
+File: GIF/Low-4.png Graphic file (type png)
+<use GIF/Low-4.png>
+Package pdftex.def Info: GIF/Low-4.png  used on input line 431.
+(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
+ </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Low-4.png> <a1,fr4>
+<GIF/Low-5.png, id=547, 301.125pt x 301.125pt>
+File: GIF/Low-5.png Graphic file (type png)
+<use GIF/Low-5.png>
+Package pdftex.def Info: GIF/Low-5.png  used on input line 431.
+(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
+ </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Low-5.png> <a1,fr5>
+<GIF/Low-6.png, id=556, 301.125pt x 301.125pt>
+File: GIF/Low-6.png Graphic file (type png)
+<use GIF/Low-6.png>
+Package pdftex.def Info: GIF/Low-6.png  used on input line 431.
+(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
+ </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Low-6.png> <a1,fr6>
+<GIF/Low-7.png, id=565, 301.125pt x 301.125pt>
+File: GIF/Low-7.png Graphic file (type png)
+<use GIF/Low-7.png>
+Package pdftex.def Info: GIF/Low-7.png  used on input line 431.
+(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
+ </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Low-7.png> <a1,fr7>
+<GIF/Low-8.png, id=574, 301.125pt x 301.125pt>
+File: GIF/Low-8.png Graphic file (type png)
+<use GIF/Low-8.png>
+Package pdftex.def Info: GIF/Low-8.png  used on input line 431.
+(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
+ </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Low-8.png> <a1,fr8>
+<GIF/Low-9.png, id=583, 301.125pt x 301.125pt>
+File: GIF/Low-9.png Graphic file (type png)
+<use GIF/Low-9.png>
+Package pdftex.def Info: GIF/Low-9.png  used on input line 431.
+(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
+ </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Low-9.png> <a1,fr9>
+<GIF/Low-10.png, id=592, 301.125pt x 301.125pt>
+File: GIF/Low-10.png Graphic file (type png)
+<use GIF/Low-10.png>
+Package pdftex.def Info: GIF/Low-10.png  used on input line 431.
+(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
+ </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Low-10.png> <a1,fr10>
+<GIF/Low-11.png, id=601, 301.125pt x 301.125pt>
+File: GIF/Low-11.png Graphic file (type png)
+<use GIF/Low-11.png>
+Package pdftex.def Info: GIF/Low-11.png  used on input line 431.
+(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
+ </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Low-11.png> <a1,fr11>
+<GIF/Low-12.png, id=610, 301.125pt x 301.125pt>
+File: GIF/Low-12.png Graphic file (type png)
+<use GIF/Low-12.png>
+Package pdftex.def Info: GIF/Low-12.png  used on input line 431.
+(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
+ </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Low-12.png> <a1,fr12>
+<GIF/Low-13.png, id=619, 301.125pt x 301.125pt>
+File: GIF/Low-13.png Graphic file (type png)
+<use GIF/Low-13.png>
+Package pdftex.def Info: GIF/Low-13.png  used on input line 431.
+(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
+ </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Low-13.png> <a1,fr13>
+<GIF/Low-14.png, id=628, 301.125pt x 301.125pt>
+File: GIF/Low-14.png Graphic file (type png)
+<use GIF/Low-14.png>
+Package pdftex.def Info: GIF/Low-14.png  used on input line 431.
+(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
+ </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Low-14.png> <a1,fr14>
+<GIF/Low-15.png, id=637, 301.125pt x 301.125pt>
+File: GIF/Low-15.png Graphic file (type png)
+<use GIF/Low-15.png>
+Package pdftex.def Info: GIF/Low-15.png  used on input line 431.
+(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
+ </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Low-15.png> <a1,fr15>
+<GIF/Low-16.png, id=646, 301.125pt x 301.125pt>
+File: GIF/Low-16.png Graphic file (type png)
+<use GIF/Low-16.png>
+Package pdftex.def Info: GIF/Low-16.png  used on input line 431.
+(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
+ </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Low-16.png> <a1,fr16>
+<GIF/Low-17.png, id=656, 301.125pt x 301.125pt>
+File: GIF/Low-17.png Graphic file (type png)
+<use GIF/Low-17.png>
+Package pdftex.def Info: GIF/Low-17.png  used on input line 431.
+(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
+ </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Low-17.png> <a1,fr17>
+<GIF/Low-18.png, id=665, 301.125pt x 301.125pt>
+File: GIF/Low-18.png Graphic file (type png)
+<use GIF/Low-18.png>
+Package pdftex.def Info: GIF/Low-18.png  used on input line 431.
+(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
+ </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Low-18.png> <a1,fr18>
+<GIF/Low-19.png, id=674, 301.125pt x 301.125pt>
+File: GIF/Low-19.png Graphic file (type png)
+<use GIF/Low-19.png>
+Package pdftex.def Info: GIF/Low-19.png  used on input line 431.
+(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
+ </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Low-19.png> <a1,fr19>
+<GIF/Low-20.png, id=683, 301.125pt x 301.125pt>
+File: GIF/Low-20.png Graphic file (type png)
+<use GIF/Low-20.png>
+Package pdftex.def Info: GIF/Low-20.png  used on input line 431.
+(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
+ </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Low-20.png> <a1,fr20>
+<GIF/Low-21.png, id=692, 301.125pt x 301.125pt>
+File: GIF/Low-21.png Graphic file (type png)
+<use GIF/Low-21.png>
+Package pdftex.def Info: GIF/Low-21.png  used on input line 431.
+(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
+ </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Low-21.png> <a1,fr21>
+<GIF/Low-22.png, id=701, 301.125pt x 301.125pt>
+File: GIF/Low-22.png Graphic file (type png)
+<use GIF/Low-22.png>
+Package pdftex.def Info: GIF/Low-22.png  used on input line 431.
+(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
+ </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Low-22.png> <a1,fr22>
+<GIF/Low-23.png, id=710, 301.125pt x 301.125pt>
+File: GIF/Low-23.png Graphic file (type png)
+<use GIF/Low-23.png>
+Package pdftex.def Info: GIF/Low-23.png  used on input line 431.
+(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
+ </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Low-23.png> <a1,fr23>
+<GIF/Low-24.png, id=719, 301.125pt x 301.125pt>
+File: GIF/Low-24.png Graphic file (type png)
+<use GIF/Low-24.png>
+Package pdftex.def Info: GIF/Low-24.png  used on input line 431.
+(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
+ </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Low-24.png> <a1,fr24>
+<GIF/Low-25.png, id=728, 301.125pt x 301.125pt>
+File: GIF/Low-25.png Graphic file (type png)
+<use GIF/Low-25.png>
+Package pdftex.def Info: GIF/Low-25.png  used on input line 431.
+(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
+ </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Low-25.png> <a1,fr25>
+<GIF/Low-26.png, id=737, 301.125pt x 301.125pt>
+File: GIF/Low-26.png Graphic file (type png)
+<use GIF/Low-26.png>
+Package pdftex.def Info: GIF/Low-26.png  used on input line 431.
+(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
+ </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Low-26.png> <a1,fr26>
+<GIF/Low-27.png, id=746, 301.125pt x 301.125pt>
+File: GIF/Low-27.png Graphic file (type png)
+<use GIF/Low-27.png>
+Package pdftex.def Info: GIF/Low-27.png  used on input line 431.
+(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
+ </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Low-27.png> <a1,fr27>
+<GIF/Low-28.png, id=755, 301.125pt x 301.125pt>
+File: GIF/Low-28.png Graphic file (type png)
+<use GIF/Low-28.png>
+Package pdftex.def Info: GIF/Low-28.png  used on input line 431.
+(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
+ </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Low-28.png> <a1,fr28>
+<GIF/Low-29.png, id=764, 301.125pt x 301.125pt>
+File: GIF/Low-29.png Graphic file (type png)
+<use GIF/Low-29.png>
+Package pdftex.def Info: GIF/Low-29.png  used on input line 431.
+(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
+ </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Low-29.png> <a1,fr29>
+<GIF/Low-30.png, id=773, 301.125pt x 301.125pt>
+File: GIF/Low-30.png Graphic file (type png)
+<use GIF/Low-30.png>
+Package pdftex.def Info: GIF/Low-30.png  used on input line 431.
+(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
+ </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Low-30.png> <a1,fr30>
+Overfull \hbox (22.85736pt too wide) in paragraph at lines 428--433
+[][] [][][][][][][][][][][][][][][][][][][][][][][][][][][][][] [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
 
@@ -1593,373 +1899,42 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [15]
-<GIF/Up-0.png, id=247, 300.12125pt x 300.12125pt>
-File: GIF/Up-0.png Graphic file (type png)
-<use GIF/Up-0.png>
-Package pdftex.def Info: GIF/Up-0.png  used on input line 414.
-(pdftex.def)             Requested size: 300.12051pt x 300.12051pt.
- </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Up-0.png> <a0,fr0>
-<GIF/Up-1.png, id=256, 300.12125pt x 300.12125pt>
-File: GIF/Up-1.png Graphic file (type png)
-<use GIF/Up-1.png>
-Package pdftex.def Info: GIF/Up-1.png  used on input line 414.
-(pdftex.def)             Requested size: 300.12051pt x 300.12051pt.
- </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Up-1.png> <a0,fr1>
-<GIF/Up-2.png, id=265, 300.12125pt x 300.12125pt>
 File: GIF/Up-2.png Graphic file (type png)
 <use GIF/Up-2.png>
-Package pdftex.def Info: GIF/Up-2.png  used on input line 414.
-(pdftex.def)             Requested size: 300.12051pt x 300.12051pt.
- </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Up-2.png> <a0,fr2>
-<GIF/Up-3.png, id=274, 300.12125pt x 300.12125pt>
+Package pdftex.def Info: GIF/Up-2.png  used on input line 442.
+(pdftex.def)             Requested size: 109.54066pt x 109.54105pt.
 File: GIF/Up-3.png Graphic file (type png)
 <use GIF/Up-3.png>
-Package pdftex.def Info: GIF/Up-3.png  used on input line 414.
-(pdftex.def)             Requested size: 300.12051pt x 300.12051pt.
- </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Up-3.png> <a0,fr3>
-<GIF/Up-4.png, id=283, 300.12125pt x 300.12125pt>
+Package pdftex.def Info: GIF/Up-3.png  used on input line 446.
+(pdftex.def)             Requested size: 109.54066pt x 109.54105pt.
 File: GIF/Up-4.png Graphic file (type png)
 <use GIF/Up-4.png>
-Package pdftex.def Info: GIF/Up-4.png  used on input line 414.
-(pdftex.def)             Requested size: 300.12051pt x 300.12051pt.
- </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Up-4.png> <a0,fr4>
-<GIF/Up-5.png, id=292, 300.12125pt x 300.12125pt>
+Package pdftex.def Info: GIF/Up-4.png  used on input line 450.
+(pdftex.def)             Requested size: 109.54066pt x 109.54105pt.
 File: GIF/Up-5.png Graphic file (type png)
 <use GIF/Up-5.png>
-Package pdftex.def Info: GIF/Up-5.png  used on input line 414.
-(pdftex.def)             Requested size: 300.12051pt x 300.12051pt.
- </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Up-5.png> <a0,fr5>
-<GIF/Up-6.png, id=301, 300.12125pt x 300.12125pt>
+Package pdftex.def Info: GIF/Up-5.png  used on input line 454.
+(pdftex.def)             Requested size: 109.54066pt x 109.54105pt.
 File: GIF/Up-6.png Graphic file (type png)
 <use GIF/Up-6.png>
-Package pdftex.def Info: GIF/Up-6.png  used on input line 414.
-(pdftex.def)             Requested size: 300.12051pt x 300.12051pt.
- </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Up-6.png> <a0,fr6>
-<GIF/Up-7.png, id=310, 300.12125pt x 300.12125pt>
+Package pdftex.def Info: GIF/Up-6.png  used on input line 458.
+(pdftex.def)             Requested size: 109.54066pt x 109.54105pt.
 File: GIF/Up-7.png Graphic file (type png)
 <use GIF/Up-7.png>
-Package pdftex.def Info: GIF/Up-7.png  used on input line 414.
-(pdftex.def)             Requested size: 300.12051pt x 300.12051pt.
- </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Up-7.png> <a0,fr7>
-<GIF/Up-8.png, id=319, 300.12125pt x 300.12125pt>
+Package pdftex.def Info: GIF/Up-7.png  used on input line 462.
+(pdftex.def)             Requested size: 109.54066pt x 109.54105pt.
 File: GIF/Up-8.png Graphic file (type png)
 <use GIF/Up-8.png>
-Package pdftex.def Info: GIF/Up-8.png  used on input line 414.
-(pdftex.def)             Requested size: 300.12051pt x 300.12051pt.
- </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Up-8.png> <a0,fr8>
-<GIF/Up-9.png, id=328, 300.12125pt x 300.12125pt>
+Package pdftex.def Info: GIF/Up-8.png  used on input line 466.
+(pdftex.def)             Requested size: 109.54066pt x 109.54105pt.
 File: GIF/Up-9.png Graphic file (type png)
 <use GIF/Up-9.png>
-Package pdftex.def Info: GIF/Up-9.png  used on input line 414.
-(pdftex.def)             Requested size: 300.12051pt x 300.12051pt.
- </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Up-9.png> <a0,fr9>
-<GIF/Up-10.png, id=337, 300.12125pt x 300.12125pt>
+Package pdftex.def Info: GIF/Up-9.png  used on input line 470.
+(pdftex.def)             Requested size: 109.54066pt x 109.54105pt.
 File: GIF/Up-10.png Graphic file (type png)
 <use GIF/Up-10.png>
-Package pdftex.def Info: GIF/Up-10.png  used on input line 414.
-(pdftex.def)             Requested size: 300.12051pt x 300.12051pt.
- </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Up-10.png> <a0,fr10>
-<GIF/Up-11.png, id=347, 300.12125pt x 300.12125pt>
-File: GIF/Up-11.png Graphic file (type png)
-<use GIF/Up-11.png>
-Package pdftex.def Info: GIF/Up-11.png  used on input line 414.
-(pdftex.def)             Requested size: 300.12051pt x 300.12051pt.
- </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Up-11.png> <a0,fr11>
-<GIF/Up-12.png, id=356, 300.12125pt x 300.12125pt>
-File: GIF/Up-12.png Graphic file (type png)
-<use GIF/Up-12.png>
-Package pdftex.def Info: GIF/Up-12.png  used on input line 414.
-(pdftex.def)             Requested size: 300.12051pt x 300.12051pt.
- </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Up-12.png> <a0,fr12>
-<GIF/Up-13.png, id=365, 300.12125pt x 300.12125pt>
-File: GIF/Up-13.png Graphic file (type png)
-<use GIF/Up-13.png>
-Package pdftex.def Info: GIF/Up-13.png  used on input line 414.
-(pdftex.def)             Requested size: 300.12051pt x 300.12051pt.
- </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Up-13.png> <a0,fr13>
-<GIF/Up-14.png, id=374, 300.12125pt x 300.12125pt>
-File: GIF/Up-14.png Graphic file (type png)
-<use GIF/Up-14.png>
-Package pdftex.def Info: GIF/Up-14.png  used on input line 414.
-(pdftex.def)             Requested size: 300.12051pt x 300.12051pt.
- </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Up-14.png> <a0,fr14>
-<GIF/Up-15.png, id=383, 300.12125pt x 300.12125pt>
-File: GIF/Up-15.png Graphic file (type png)
-<use GIF/Up-15.png>
-Package pdftex.def Info: GIF/Up-15.png  used on input line 414.
-(pdftex.def)             Requested size: 300.12051pt x 300.12051pt.
- </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Up-15.png> <a0,fr15>
-<GIF/Up-16.png, id=392, 300.12125pt x 300.12125pt>
-File: GIF/Up-16.png Graphic file (type png)
-<use GIF/Up-16.png>
-Package pdftex.def Info: GIF/Up-16.png  used on input line 414.
-(pdftex.def)             Requested size: 300.12051pt x 300.12051pt.
- </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Up-16.png> <a0,fr16>
-<GIF/Up-17.png, id=401, 300.12125pt x 300.12125pt>
-File: GIF/Up-17.png Graphic file (type png)
-<use GIF/Up-17.png>
-Package pdftex.def Info: GIF/Up-17.png  used on input line 414.
-(pdftex.def)             Requested size: 300.12051pt x 300.12051pt.
- </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Up-17.png> <a0,fr17>
-<GIF/Up-18.png, id=410, 300.12125pt x 300.12125pt>
-File: GIF/Up-18.png Graphic file (type png)
-<use GIF/Up-18.png>
-Package pdftex.def Info: GIF/Up-18.png  used on input line 414.
-(pdftex.def)             Requested size: 300.12051pt x 300.12051pt.
- </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Up-18.png> <a0,fr18>
-<GIF/Up-19.png, id=419, 300.12125pt x 300.12125pt>
-File: GIF/Up-19.png Graphic file (type png)
-<use GIF/Up-19.png>
-Package pdftex.def Info: GIF/Up-19.png  used on input line 414.
-(pdftex.def)             Requested size: 300.12051pt x 300.12051pt.
- </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Up-19.png> <a0,fr19>
-<GIF/Up-20.png, id=428, 300.12125pt x 300.12125pt>
-File: GIF/Up-20.png Graphic file (type png)
-<use GIF/Up-20.png>
-Package pdftex.def Info: GIF/Up-20.png  used on input line 414.
-(pdftex.def)             Requested size: 300.12051pt x 300.12051pt.
- </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Up-20.png> <a0,fr20>
-<GIF/Up-21.png, id=437, 300.12125pt x 300.12125pt>
-File: GIF/Up-21.png Graphic file (type png)
-<use GIF/Up-21.png>
-Package pdftex.def Info: GIF/Up-21.png  used on input line 414.
-(pdftex.def)             Requested size: 300.12051pt x 300.12051pt.
- </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Up-21.png> <a0,fr21>
-<GIF/Up-22.png, id=446, 300.12125pt x 300.12125pt>
-File: GIF/Up-22.png Graphic file (type png)
-<use GIF/Up-22.png>
-Package pdftex.def Info: GIF/Up-22.png  used on input line 414.
-(pdftex.def)             Requested size: 300.12051pt x 300.12051pt.
- </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Up-22.png> <a0,fr22>
-<GIF/Up-23.png, id=455, 300.12125pt x 300.12125pt>
-File: GIF/Up-23.png Graphic file (type png)
-<use GIF/Up-23.png>
-Package pdftex.def Info: GIF/Up-23.png  used on input line 414.
-(pdftex.def)             Requested size: 300.12051pt x 300.12051pt.
- </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Up-23.png> <a0,fr23>
-<GIF/Up-24.png, id=464, 300.12125pt x 300.12125pt>
-File: GIF/Up-24.png Graphic file (type png)
-<use GIF/Up-24.png>
-Package pdftex.def Info: GIF/Up-24.png  used on input line 414.
-(pdftex.def)             Requested size: 300.12051pt x 300.12051pt.
- </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Up-24.png> <a0,fr24>
-<GIF/Up-25.png, id=473, 300.12125pt x 300.12125pt>
-File: GIF/Up-25.png Graphic file (type png)
-<use GIF/Up-25.png>
-Package pdftex.def Info: GIF/Up-25.png  used on input line 414.
-(pdftex.def)             Requested size: 300.12051pt x 300.12051pt.
- </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Up-25.png> <a0,fr25>
-<GIF/Up-26.png, id=482, 300.12125pt x 300.12125pt>
-File: GIF/Up-26.png Graphic file (type png)
-<use GIF/Up-26.png>
-Package pdftex.def Info: GIF/Up-26.png  used on input line 414.
-(pdftex.def)             Requested size: 300.12051pt x 300.12051pt.
- </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Up-26.png> <a0,fr26>
-<GIF/Up-27.png, id=491, 300.12125pt x 300.12125pt>
-File: GIF/Up-27.png Graphic file (type png)
-<use GIF/Up-27.png>
-Package pdftex.def Info: GIF/Up-27.png  used on input line 414.
-(pdftex.def)             Requested size: 300.12051pt x 300.12051pt.
- </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Up-27.png> <a0,fr27>
-<GIF/Low-0.png, id=504, 301.125pt x 301.125pt>
-File: GIF/Low-0.png Graphic file (type png)
-<use GIF/Low-0.png>
-Package pdftex.def Info: GIF/Low-0.png  used on input line 415.
-(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
- </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Low-0.png> <a1,fr0>
-<GIF/Low-1.png, id=513, 301.125pt x 301.125pt>
-File: GIF/Low-1.png Graphic file (type png)
-<use GIF/Low-1.png>
-Package pdftex.def Info: GIF/Low-1.png  used on input line 415.
-(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
- </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Low-1.png> <a1,fr1>
-<GIF/Low-2.png, id=522, 301.125pt x 301.125pt>
-File: GIF/Low-2.png Graphic file (type png)
-<use GIF/Low-2.png>
-Package pdftex.def Info: GIF/Low-2.png  used on input line 415.
-(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
- </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Low-2.png> <a1,fr2>
-<GIF/Low-3.png, id=531, 301.125pt x 301.125pt>
-File: GIF/Low-3.png Graphic file (type png)
-<use GIF/Low-3.png>
-Package pdftex.def Info: GIF/Low-3.png  used on input line 415.
-(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
- </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Low-3.png> <a1,fr3>
-<GIF/Low-4.png, id=540, 301.125pt x 301.125pt>
-File: GIF/Low-4.png Graphic file (type png)
-<use GIF/Low-4.png>
-Package pdftex.def Info: GIF/Low-4.png  used on input line 415.
-(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
- </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Low-4.png> <a1,fr4>
-<GIF/Low-5.png, id=549, 301.125pt x 301.125pt>
-File: GIF/Low-5.png Graphic file (type png)
-<use GIF/Low-5.png>
-Package pdftex.def Info: GIF/Low-5.png  used on input line 415.
-(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
- </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Low-5.png> <a1,fr5>
-<GIF/Low-6.png, id=558, 301.125pt x 301.125pt>
-File: GIF/Low-6.png Graphic file (type png)
-<use GIF/Low-6.png>
-Package pdftex.def Info: GIF/Low-6.png  used on input line 415.
-(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
- </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Low-6.png> <a1,fr6>
-<GIF/Low-7.png, id=567, 301.125pt x 301.125pt>
-File: GIF/Low-7.png Graphic file (type png)
-<use GIF/Low-7.png>
-Package pdftex.def Info: GIF/Low-7.png  used on input line 415.
-(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
- </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Low-7.png> <a1,fr7>
-<GIF/Low-8.png, id=576, 301.125pt x 301.125pt>
-File: GIF/Low-8.png Graphic file (type png)
-<use GIF/Low-8.png>
-Package pdftex.def Info: GIF/Low-8.png  used on input line 415.
-(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
- </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Low-8.png> <a1,fr8>
-<GIF/Low-9.png, id=585, 301.125pt x 301.125pt>
-File: GIF/Low-9.png Graphic file (type png)
-<use GIF/Low-9.png>
-Package pdftex.def Info: GIF/Low-9.png  used on input line 415.
-(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
- </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Low-9.png> <a1,fr9>
-<GIF/Low-10.png, id=594, 301.125pt x 301.125pt>
-File: GIF/Low-10.png Graphic file (type png)
-<use GIF/Low-10.png>
-Package pdftex.def Info: GIF/Low-10.png  used on input line 415.
-(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
- </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Low-10.png> <a1,fr10>
-<GIF/Low-11.png, id=603, 301.125pt x 301.125pt>
-File: GIF/Low-11.png Graphic file (type png)
-<use GIF/Low-11.png>
-Package pdftex.def Info: GIF/Low-11.png  used on input line 415.
-(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
- </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Low-11.png> <a1,fr11>
-<GIF/Low-12.png, id=612, 301.125pt x 301.125pt>
-File: GIF/Low-12.png Graphic file (type png)
-<use GIF/Low-12.png>
-Package pdftex.def Info: GIF/Low-12.png  used on input line 415.
-(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
- </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Low-12.png> <a1,fr12>
-<GIF/Low-13.png, id=621, 301.125pt x 301.125pt>
-File: GIF/Low-13.png Graphic file (type png)
-<use GIF/Low-13.png>
-Package pdftex.def Info: GIF/Low-13.png  used on input line 415.
-(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
- </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Low-13.png> <a1,fr13>
-<GIF/Low-14.png, id=630, 301.125pt x 301.125pt>
-File: GIF/Low-14.png Graphic file (type png)
-<use GIF/Low-14.png>
-Package pdftex.def Info: GIF/Low-14.png  used on input line 415.
-(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
- </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Low-14.png> <a1,fr14>
-<GIF/Low-15.png, id=639, 301.125pt x 301.125pt>
-File: GIF/Low-15.png Graphic file (type png)
-<use GIF/Low-15.png>
-Package pdftex.def Info: GIF/Low-15.png  used on input line 415.
-(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
- </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Low-15.png> <a1,fr15>
-<GIF/Low-16.png, id=649, 301.125pt x 301.125pt>
-File: GIF/Low-16.png Graphic file (type png)
-<use GIF/Low-16.png>
-Package pdftex.def Info: GIF/Low-16.png  used on input line 415.
-(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
- </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Low-16.png> <a1,fr16>
-<GIF/Low-17.png, id=658, 301.125pt x 301.125pt>
-File: GIF/Low-17.png Graphic file (type png)
-<use GIF/Low-17.png>
-Package pdftex.def Info: GIF/Low-17.png  used on input line 415.
-(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
- </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Low-17.png> <a1,fr17>
-<GIF/Low-18.png, id=667, 301.125pt x 301.125pt>
-File: GIF/Low-18.png Graphic file (type png)
-<use GIF/Low-18.png>
-Package pdftex.def Info: GIF/Low-18.png  used on input line 415.
-(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
- </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Low-18.png> <a1,fr18>
-<GIF/Low-19.png, id=676, 301.125pt x 301.125pt>
-File: GIF/Low-19.png Graphic file (type png)
-<use GIF/Low-19.png>
-Package pdftex.def Info: GIF/Low-19.png  used on input line 415.
-(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
- </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Low-19.png> <a1,fr19>
-<GIF/Low-20.png, id=685, 301.125pt x 301.125pt>
-File: GIF/Low-20.png Graphic file (type png)
-<use GIF/Low-20.png>
-Package pdftex.def Info: GIF/Low-20.png  used on input line 415.
-(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
- </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Low-20.png> <a1,fr20>
-<GIF/Low-21.png, id=694, 301.125pt x 301.125pt>
-File: GIF/Low-21.png Graphic file (type png)
-<use GIF/Low-21.png>
-Package pdftex.def Info: GIF/Low-21.png  used on input line 415.
-(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
- </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Low-21.png> <a1,fr21>
-<GIF/Low-22.png, id=703, 301.125pt x 301.125pt>
-File: GIF/Low-22.png Graphic file (type png)
-<use GIF/Low-22.png>
-Package pdftex.def Info: GIF/Low-22.png  used on input line 415.
-(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
- </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Low-22.png> <a1,fr22>
-<GIF/Low-23.png, id=712, 301.125pt x 301.125pt>
-File: GIF/Low-23.png Graphic file (type png)
-<use GIF/Low-23.png>
-Package pdftex.def Info: GIF/Low-23.png  used on input line 415.
-(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
- </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Low-23.png> <a1,fr23>
-<GIF/Low-24.png, id=721, 301.125pt x 301.125pt>
-File: GIF/Low-24.png Graphic file (type png)
-<use GIF/Low-24.png>
-Package pdftex.def Info: GIF/Low-24.png  used on input line 415.
-(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
- </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Low-24.png> <a1,fr24>
-<GIF/Low-25.png, id=730, 301.125pt x 301.125pt>
-File: GIF/Low-25.png Graphic file (type png)
-<use GIF/Low-25.png>
-Package pdftex.def Info: GIF/Low-25.png  used on input line 415.
-(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
- </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Low-25.png> <a1,fr25>
-<GIF/Low-26.png, id=739, 301.125pt x 301.125pt>
-File: GIF/Low-26.png Graphic file (type png)
-<use GIF/Low-26.png>
-Package pdftex.def Info: GIF/Low-26.png  used on input line 415.
-(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
- </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Low-26.png> <a1,fr26>
-<GIF/Low-27.png, id=748, 301.125pt x 301.125pt>
-File: GIF/Low-27.png Graphic file (type png)
-<use GIF/Low-27.png>
-Package pdftex.def Info: GIF/Low-27.png  used on input line 415.
-(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
- </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Low-27.png> <a1,fr27>
-<GIF/Low-28.png, id=757, 301.125pt x 301.125pt>
-File: GIF/Low-28.png Graphic file (type png)
-<use GIF/Low-28.png>
-Package pdftex.def Info: GIF/Low-28.png  used on input line 415.
-(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
- </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Low-28.png> <a1,fr28>
-<GIF/Low-29.png, id=766, 301.125pt x 301.125pt>
-File: GIF/Low-29.png Graphic file (type png)
-<use GIF/Low-29.png>
-Package pdftex.def Info: GIF/Low-29.png  used on input line 415.
-(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
- </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Low-29.png> <a1,fr29>
-<GIF/Low-30.png, id=775, 301.125pt x 301.125pt>
-File: GIF/Low-30.png Graphic file (type png)
-<use GIF/Low-30.png>
-Package pdftex.def Info: GIF/Low-30.png  used on input line 415.
-(pdftex.def)             Requested size: 301.12425pt x 301.12425pt.
- </home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/GIF/Low-30.png> <a1,fr30>
-Overfull \hbox (22.85736pt too wide) in paragraph at lines 412--418
-[][] [][][][][][][][][][][][][][][][][][][][][][][][][][][][][] [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 412--418
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 412--418
-
- []
+Package pdftex.def Info: GIF/Up-10.png  used on input line 474.
+(pdftex.def)             Requested size: 109.54066pt x 109.54105pt.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1971,25 +1946,25 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 Package hyperref Warning: Composite letter `\textdotbelow+\ecircumflex'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textdotbelow' on input line 422.
+(hyperref)                removing `\textdotbelow' on input line 480.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ecircumflex' on input line 422.
+(hyperref)                removing `\ecircumflex' on input line 480.
 
 
 Package hyperref Warning: Composite letter `\textasciigrave+\ocircumflex'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textasciigrave' on input line 423.
+(hyperref)                removing `\textasciigrave' on input line 481.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ocircumflex' on input line 423.
+(hyperref)                removing `\ocircumflex' on input line 481.
 
-<Image/codeMaple.png, id=797, 752.8125pt x 550.055pt>
+<Image/codeMaple.png, id=801, 752.8125pt x 550.055pt>
 File: Image/codeMaple.png Graphic file (type png)
 <use Image/codeMaple.png>
-Package pdftex.def Info: Image/codeMaple.png  used on input line 428.
+Package pdftex.def Info: Image/codeMaple.png  used on input line 486.
 (pdftex.def)             Requested size: 376.40532pt x 275.02682pt.
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2001,126 +1976,126 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 Package hyperref Warning: Composite letter `\textdotbelow+\ecircumflex'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textdotbelow' on input line 431.
+(hyperref)                removing `\textdotbelow' on input line 489.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ecircumflex' on input line 431.
+(hyperref)                removing `\ecircumflex' on input line 489.
 
 
 Package hyperref Warning: Composite letter `\textdotbelow+a'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textdotbelow' on input line 433.
+(hyperref)                removing `\textdotbelow' on input line 491.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\dj' on input line 433.
+(hyperref)                removing `\dj' on input line 491.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\h' on input line 433.
+(hyperref)                removing `\h' on input line 491.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ecircumflex' on input line 433.
+(hyperref)                removing `\ecircumflex' on input line 491.
 
-<Image/create.png, id=803, 968.61874pt x 417.56pt>
+<Image/create.png, id=807, 968.61874pt x 417.56pt>
 File: Image/create.png Graphic file (type png)
 <use Image/create.png>
-Package pdftex.def Info: Image/create.png  used on input line 436.
+Package pdftex.def Info: Image/create.png  used on input line 494.
 (pdftex.def)             Requested size: 387.44063pt x 167.02103pt.
 
 Package hyperref Warning: Composite letter `\textasciigrave+\ocircumflex'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textasciigrave' on input line 438.
+(hyperref)                removing `\textasciigrave' on input line 496.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ocircumflex' on input line 438.
+(hyperref)                removing `\ocircumflex' on input line 496.
 
 
 Package hyperref Warning: Composite letter `\texttilde+e'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\texttilde' on input line 438.
+(hyperref)                removing `\texttilde' on input line 496.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\dj' on input line 438.
+(hyperref)                removing `\dj' on input line 496.
 
-<Image/poly.png, id=804, 970.62625pt x 497.86pt>
+<Image/poly.png, id=808, 970.62625pt x 497.86pt>
 File: Image/poly.png Graphic file (type png)
 <use Image/poly.png>
-Package pdftex.def Info: Image/poly.png  used on input line 441.
+Package pdftex.def Info: Image/poly.png  used on input line 499.
 (pdftex.def)             Requested size: 388.24362pt x 199.14047pt.
 
 Package hyperref Warning: Composite letter `\texttilde+e'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\texttilde' on input line 443.
+(hyperref)                removing `\texttilde' on input line 501.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\h' on input line 443.
+(hyperref)                removing `\h' on input line 501.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\dj' on input line 443.
+(hyperref)                removing `\dj' on input line 501.
 
 
 Package hyperref Warning: Composite letter `\textdotbelow+\ocircumflex'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textdotbelow' on input line 443.
+(hyperref)                removing `\textdotbelow' on input line 501.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ocircumflex' on input line 443.
+(hyperref)                removing `\ocircumflex' on input line 501.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\h' on input line 443.
+(hyperref)                removing `\h' on input line 501.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ecircumflex' on input line 443.
+(hyperref)                removing `\ecircumflex' on input line 501.
 
 
 Package hyperref Warning: Composite letter `\textdotbelow+\ecircumflex'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textdotbelow' on input line 443.
+(hyperref)                removing `\textdotbelow' on input line 501.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ecircumflex' on input line 443.
+(hyperref)                removing `\ecircumflex' on input line 501.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\uhorn' on input line 443.
+(hyperref)                removing `\uhorn' on input line 501.
 
 
 Package hyperref Warning: Composite letter `\textacute+\ohorn'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textacute' on input line 443.
+(hyperref)                removing `\textacute' on input line 501.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ohorn' on input line 443.
+(hyperref)                removing `\ohorn' on input line 501.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\h' on input line 443.
+(hyperref)                removing `\h' on input line 501.
 
 
 Package hyperref Warning: Composite letter `\textdotbelow+\acircumflex'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textdotbelow' on input line 443.
+(hyperref)                removing `\textdotbelow' on input line 501.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\acircumflex' on input line 443.
+(hyperref)                removing `\acircumflex' on input line 501.
 
-<Image/ani.png, id=805, 973.6375pt x 458.71375pt>
+<Image/ani.png, id=809, 973.6375pt x 458.71375pt>
 File: Image/ani.png Graphic file (type png)
 <use Image/ani.png>
-Package pdftex.def Info: Image/ani.png  used on input line 446.
+Package pdftex.def Info: Image/ani.png  used on input line 504.
 (pdftex.def)             Requested size: 389.44809pt x 183.48224pt.
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2132,20 +2107,20 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 Package hyperref Warning: Composite letter `\textacute+\ecircumflex'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textacute' on input line 448.
+(hyperref)                removing `\textacute' on input line 506.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ecircumflex' on input line 448.
+(hyperref)                removing `\ecircumflex' on input line 506.
 
 
 Package hyperref Warning: Composite letter `\textdotbelow+\acircumflex'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textdotbelow' on input line 448.
+(hyperref)                removing `\textdotbelow' on input line 506.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\acircumflex' on input line 448.
+(hyperref)                removing `\acircumflex' on input line 506.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2157,22 +2132,22 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 Package hyperref Warning: Composite letter `\textdotbelow+\ecircumflex'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textdotbelow' on input line 458.
+(hyperref)                removing `\textdotbelow' on input line 516.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\ecircumflex' on input line 458.
+(hyperref)                removing `\ecircumflex' on input line 516.
 
 
 Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\h' on input line 458.
+(hyperref)                removing `\h' on input line 516.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 467--468
+Underfull \hbox (badness 10000) in paragraph at lines 525--526
 [][][]$\T5/cmtt/m/n/12 https : / / en . wikibooks . org / wiki / Algorithm _ Implementation /
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 472.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 530.
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 17.97171pt.
@@ -2180,27 +2155,27 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  This may cause the page layout to be inconsistent, however.
 
 [20]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 472.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 530.
  (/home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/BTL_ConvexHull.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 472.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 472.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 530.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 530.
 Package rerunfilecheck Info: File `BTL_ConvexHull.out' has not changed.
-(rerunfilecheck)             Checksum: 5EAEF49139F1F9FFF1A4C7C19A200681;2005.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 472.
+(rerunfilecheck)             Checksum: 073EC61C30E2261853DA2060AFBEE10F;2032.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 530.
  ) 
 Here is how much of TeX's memory you used:
- 18497 strings out of 492982
- 321111 string characters out of 6134896
- 387361 words of memory out of 5000000
- 21688 multiletter control sequences out of 15000+600000
- 550845 words of font info for 60 fonts, out of 8000000 for 9000
+ 18867 strings out of 492982
+ 326879 string characters out of 6134896
+ 393871 words of memory out of 5000000
+ 22050 multiletter control sequences out of 15000+600000
+ 551156 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 59i,17n,94p,10479b,559s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/vntex/vnr/vnbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/vntex/vnr/vncsc10.pfb></usr/share/texlive/texmf-dist/fonts/type1/vntex/vnr/vnr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/vntex/vnr/vnr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/vntex/vnr/vnti12.pfb></usr/share/texlive/texmf-dist/fonts/type1/vntex/vnr/vntt12.pfb>
-Output written on /home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/BTL_ConvexHull.pdf (21 pages, 599483 bytes).
+ 59i,17n,94p,10479b,568s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/vntex/vnr/vnbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/vntex/vnr/vncsc10.pfb></usr/share/texlive/texmf-dist/fonts/type1/vntex/vnr/vnr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/vntex/vnr/vnr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/vntex/vnr/vnti12.pfb></usr/share/texlive/texmf-dist/fonts/type1/vntex/vnr/vntt10.pfb></usr/share/texlive/texmf-dist/fonts/type1/vntex/vnr/vntt12.pfb>
+Output written on /home/tanh/TanhLearn/ThucHanhTinhToan/BaiTapLon/ConvexHull/BTL_ConvexHull.pdf (21 pages, 609218 bytes).
 PDF statistics:
- 888 PDF objects out of 1000 (max. 8388607)
- 536 compressed objects within 6 object streams
- 74 named destinations out of 1000 (max. 500000)
+ 895 PDF objects out of 1000 (max. 8388607)
+ 542 compressed objects within 6 object streams
+ 77 named destinations out of 1000 (max. 500000)
  1649 words of extra memory for PDF output out of 10000 (max. 10000000)
 
